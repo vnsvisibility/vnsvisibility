@@ -1,0 +1,19 @@
+/* Styling for sortable control */
+.elementor-control-type-sortable-control .control-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    width: 100%;
+}
+
+.elementor-control-type-sortable-control .control-content-wrapper .sort-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    border: 1px solid #d4c3c3;
+    cursor: all-scroll;
+}
+
+.elementor-control-type-sortable-control .control-content-wrapper .sort-item:hover {
+    box-shadow: 0 0 2px;
+}

@@ -1,0 +1,349 @@
+/*
+*
+*	NEWS BLOCK STYLES
+*
+*/
+
+
+/*
+-----------------------------------
+	NEWS BLOCK
+-----------------------------------
+*/
+
+	.nekit-block-widget .news-block-post-wrap {
+		display: grid;
+		row-gap: 16px;
+	}
+
+	.nekit-block-widget .nekit-item-box-wrap {
+		overflow: hidden;
+		transition: all .3s ease;
+	}
+
+	.nekit-block-widget .post-thumb-wrap {
+		position: relative;
+		overflow: hidden;
+	}
+
+	.nekit-block-widget .post-thumb-wrap img {
+		position: absolute;
+		height: 100%;
+		width: 100%;
+		object-fit: cover;
+		top: 50%;
+		left: 50%;
+		transform: scale(1.1) translate(-50%, -50%);
+		transition: all .5s ease;
+	}
+
+	.nekit-block-widget .post-categories {
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		bottom: 10px;
+		left: 10px;
+		z-index: 1;
+	}
+
+	.nekit-block-widget .post-categories li {
+		list-style: none;
+		display: inline-block;
+	}
+
+	.nekit-block-widget .post-categories li a {
+ 		font-family: 'Jost';
+ 		font-size: 11px;
+ 		text-transform: uppercase;
+ 		font-weight: 500;
+ 		display: inline-block;
+ 	}
+
+ 	.nekit-block-widget .featured-post .post-element {
+		margin-top: 10px;
+	}
+
+	.nekit-block-widget .post-title {
+		margin: 0 0 8px;
+	}
+
+ 	.nekit-block-widget .post-title {
+ 		font-family: 'Rubik';
+ 		font-weight: 500;
+ 		font-size: 20px;
+ 	}
+
+ 	.nekit-block-widget .trailing-post .post-element {
+		margin-left: 15px;
+	}
+
+	.nekit-block-widget.section-no-thumbnail .trailing-post .nekit-item-box-wrap,
+	.nekit-news-block-two-posts-wrap.section-no-thumbnail .secondary-row .nekit-item-box-wrap {
+		grid-template-columns: 100%;
+	}
+
+	.nekit-block-widget.section-no-thumbnail .trailing-post .post-element,
+	.nekit-news-block-two-posts-wrap.section-no-thumbnail .secondary-row .post-element {
+		margin-left: 0;
+	}
+
+	.nekit-block-widget .trailing-post .post-excerpt,
+	.nekit-block-widget .trailing-post .post-link-button,
+	.nekit-block-widget .secondary-row .post-excerpt,
+	.nekit-block-widget .secondary-row .post-link-button,
+	.nekit-block-widget .trailing-post .post-categories,
+	.nekit-block-widget .secondary-row .post-categories {
+		display: none;
+	}
+
+	.nekit-block-widget .post-thumb-wrap > a {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+	}
+
+
+ 	/*
+ 	---------------------------------
+ 		NEWS BLOCK ONE
+	---------------------------------
+	*/
+
+		/* FEATURED POSTS STYLES */
+			.nekit-news-block-one-posts-wrap .featured-post {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 16px;
+			}
+
+		/* TRAILING POSTS STYLES */
+			.nekit-news-block-one-posts-wrap .trailing-post {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 16px;
+			}
+
+			.nekit-news-block-one-posts-wrap .trailing-post .nekit-item-box-wrap {
+				display: grid;
+				align-items: flex-start;
+				-webkit-align-items: flex-start;
+				grid-template-columns: 25%75%;
+			}
+
+
+	/*
+	-----------------------------------
+		NEWS BLOCK TWO
+	-----------------------------------
+	*/
+
+		.nekit-news-block-two-posts-wrap .primary-row {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			gap: 16px;
+		}
+
+		/* TRAILING POSTS STYLES */
+			.nekit-news-block-two-posts-wrap .primary-row .trailing-post {
+				display: grid;
+				gap: 16px;
+			}
+
+			.nekit-news-block-two-posts-wrap .trailing-post .nekit-item-box-wrap {
+				display: grid;
+				align-items: flex-start;
+				-webkit-align-items: flex-start;
+				grid-template-columns: 25%75%;
+			}
+
+		/* SECENDARY ROW */
+			.nekit-news-block-two-posts-wrap .secondary-row {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				gap: 16px;
+			}
+
+			.nekit-news-block-two-posts-wrap .secondary-row .nekit-item-box-wrap {
+				display: grid;
+				grid-template-columns: 25%75%;
+				align-items: center;
+				-webkit-align-items: center;
+			}
+
+			.nekit-news-block-two-posts-wrap .secondary-row .post-element {
+				margin-left: 15px;
+			}
+
+
+	/*
+	----------------------------------
+		NEWS BLOCK THREE
+	----------------------------------
+	*/
+
+		.nekit-news-block-three-posts-wrap .primary-row {
+			display: grid;
+			gap: 16px;
+		}
+
+		/* FEATURED POST */
+			.nekit-news-block-three-posts-wrap .featured-post .nekit-item-box-wrap {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+				align-items: center;
+				-webkit-align-items: center;
+				gap: 15px;
+			}
+
+			.nekit-news-block-three-posts-wrap .featured-post .post-element {
+				margin: 0;
+			}
+
+		/* TRAILING POST */
+			.nekit-news-block-three-posts-wrap .trailing-post {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 16px;
+			}
+
+			.nekit-news-block-three-posts-wrap .trailing-post .post-element {
+				margin: 10px 0 0;
+			}
+
+
+	/*
+	-----------------------------------
+		NEWS BLOCK FOUR
+	-----------------------------------
+	*/
+
+		.nekit-news-block-four-posts-wrap .primary-row {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			gap: 16px;
+		}
+
+		.nekit-news-block-four-posts-wrap .featured-post .post-thumb-wrap {
+/*			height: 367px;*/
+		}
+
+		/* TRAILING POSTS */
+			.nekit-news-block-four-posts-wrap .primary-row .trailing-post {
+				display: flex;
+				flex-wrap: wrap;
+				row-gap: 16px;
+				margin: 0 -8px;
+			}
+
+			.nekit-news-block-four-posts-wrap .trailing-post .block-inner-wrap:first-child {
+				flex: 0 1 100%;
+			}
+
+			.nekit-news-block-four-posts-wrap .trailing-post .post-thumb-parent {
+				height: 100%;
+			}
+
+			.nekit-news-block-four-posts-wrap .trailing-post .block-inner-wrap {
+				flex: 0 1 50%;
+				padding: 0 8px;
+			}
+
+			.nekit-news-block-four-posts-wrap .trailing-post .post-element {
+				margin: 10px 0 0;
+			}
+
+		/* SECONDARY ROW */
+			.nekit-news-block-four-posts-wrap .secondary-row {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 16px;
+			}
+
+			.nekit-news-block-four-posts-wrap .secondary-row .post-element {
+				margin-top: 10px;
+			}
+
+		.nekit-news-block-four-posts-wrap .no-feat-img .post-thumb-wrap {
+			padding-bottom: 63%;
+		}
+		
+
+
+/*
+------------------------------
+	COLUMN ADJUST
+------------------------------
+*/
+
+	.nekit-block-widget.adjust-layout--on .featured-post,
+	.nekit-block-widget.adjust-layout--on .trailing-post,
+	.nekit-block-widget.adjust-layout--on .primary-row,
+	.nekit-block-widget.adjust-layout--on .secondary-row {
+		grid-template-columns: 100%;
+	}
+
+	.nekit-block-widget.adjust-layout--on.nekit-news-block-three-posts-wrap .featured-post .nekit-item-box-wrap {
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.nekit-block-widget.adjust-layout--on.nekit-news-block-three-posts-wrap .featured-post .nekit-item-box-wrap .post-element {
+		order: 2;
+	}
+
+	.nekit-block-widget.adjust-layout--on.nekit-news-block-three-posts-wrap .featured-post .nekit-item-box-wrap .post-thumb-wrap {
+		order: 1;
+	}
+
+
+/*
+------------------------------
+	RESPONSIVE
+------------------------------
+*/
+
+	@media (max-width: 768px) {
+		.nekit-news-block-one-posts-wrap .featured-post,
+		.nekit-news-block-one-posts-wrap .trailing-post,
+		.nekit-news-block-two-posts-wrap .primary-row,
+		.nekit-news-block-two-posts-wrap .secondary-row {
+			grid-template-columns: 100%;
+		}
+
+		.nekit-news-block-three-posts-wrap .trailing-post {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		/* LAYOUT FIVE */
+			.nekit-news-block-four-posts-wrap .primary-row {
+				grid-template-columns: 100%;
+			}
+
+			.nekit-news-block-four-posts-wrap .secondary-row {
+				grid-template-columns: repeat(2, 1fr);
+			}
+	}
+
+	@media (max-width: 610px) {
+		.nekit-news-block-three-posts-wrap .trailing-post,
+		.nekit-news-block-three-posts-wrap .featured-post .nekit-item-box-wrap {
+			grid-template-columns: 100%;
+		}
+
+		.nekit-news-block-three-posts-wrap .featured-post .post-element {
+			order: 2;
+		}
+
+		/* LAYOUT FOUR */
+			.nekit-news-block-four-posts-wrap .secondary-row {
+				grid-template-columns: 100%;
+			}
+
+			.nekit-news-block-four-posts-wrap .primary-row .trailing-post {
+				flex-direction: column;
+				flex-wrap: nowrap;
+			}
+
+			.nekit-news-block-four-posts-wrap .primary-row .trailing-post .block-item {
+				flex: initial;
+			}
+	}

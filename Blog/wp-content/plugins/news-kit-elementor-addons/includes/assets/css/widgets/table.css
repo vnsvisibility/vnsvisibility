@@ -1,0 +1,119 @@
+/*
+*
+*	TABLE OF CONTENT STYLES
+*
+*/
+
+
+
+/*
+-----------------------------------
+	TABLE OF CONTENT STYLES
+-----------------------------------
+*/
+
+	.nekit-single-table-of-content .elementor-menu-anchor {
+		display: none;
+	}
+
+	.nekit-single-table-of-content .table-of-content-wrap {
+		overflow: hidden;
+	}
+
+	.nekit-single-table-of-content .table-of-content-title-wrap {
+		display: flex;
+		justify-content: space-between;
+		-webkit-justify-content: space-between;
+		align-items: center;
+		-webkit-align-items: center;
+	}
+
+	.nekit-single-table-of-content .table-of-content-title {
+		font-family: 'Lexend';
+		margin: 0;
+		font-size: 22px;
+	}
+
+	.nekit-single-table-of-content .toc-list-item-wrap {
+		padding: 0;
+		margin: 0;
+	}
+
+	.nekit-single-table-of-content .toc-list-item .toc-list-item-wrap {
+		margin-left: 35px;
+	}
+
+	.nekit-single-table-of-content .toc-list-item .toc-list-item-wrap {
+		margin-top: 8px;
+	}
+
+	.nekit-single-table-of-content .toc-list-item-wrap li {
+		font-family: 'Lexend';
+		font-size: 15px;
+		margin-bottom: 8px;
+	}
+
+	.nekit-single-table-of-content .toc-list-item-wrap li:last-child {
+		margin-bottom: 0;
+	}
+
+	/* MARKER TYPE */
+		.nekit-single-table-of-content li.toc-list-item {
+			list-style: none;
+		}
+
+		.nekit-single-table-of-content.toc-list-type--bullets li {
+			list-style: disc;
+		}
+
+		.nekit-single-table-of-content.toc-list-type--circle li {
+			list-style: circle;
+		}
+
+		.nekit-single-table-of-content.toc-list-type--bullets .toc-list-item-wrap:first-child,
+		.nekit-single-table-of-content.toc-list-type--circle .toc-list-item-wrap:first-child {
+			padding-left: 20px;
+		}
+
+		.nekit-single-table-of-content .toc-list-item-wrap li a,
+		.nekit-single-table-of-content .toc-list-item-wrap li::marker {
+			color: #727272;
+		}
+
+		.nekit-single-table-of-content .toc-list-item-wrap .toc-heading-title a > .numbering-prefix {
+			margin-right: 8px;
+		}
+
+	.nekit-single-table-of-content .table-of-content-list-wrap {
+		font-family: 'Lexend';
+		font-weight: 500;
+		font-size: 16px;
+	}
+
+	/* BUTTON STYLES */
+		.nekit-single-table-of-content .toc-content-toggle-button,
+		.nekit-single-table-of-content .toc-toggle-button {
+			border: none;
+			background-color: transparent;
+			cursor: pointer;
+			font-size: 14px;
+		}
+
+
+	/* FIXED */
+		.nekit-single-table-of-content .toc-toggle-button {
+			position: fixed;
+			z-index: 999;
+		}
+
+
+	/* RESPONSIVE */
+	@media (max-width: 610px) {
+		.nekit-ticker-news-two .nekit-ticker-box {
+			max-width: 79%;
+		}
+		
+		.nekit-ticker-news-two .slick-list {
+			width: 70%;
+		}
+	}

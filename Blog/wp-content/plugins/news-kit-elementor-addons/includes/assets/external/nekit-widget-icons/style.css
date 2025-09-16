@@ -1,0 +1,257 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?kcr25v');
+  src:  url('fonts/icomoon.eot?kcr25v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?kcr25v') format('truetype'),
+    url('fonts/icomoon.woff?kcr25v') format('woff'),
+    url('fonts/icomoon.svg?kcr25v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-nekit-phone-call:before {
+  content: "\e939";
+}
+.icon-nekit-site-mega-menu:before {
+  content: "\e938";
+  color: #515962;
+}
+.icon-nekit-ticker-news-slider:before {
+  content: "\e937";
+  color: #515962;
+}
+.icon-nekit-single-title:before {
+  content: "\e936";
+  color: #515962;
+}
+.icon-nekit-social-share:before {
+  content: "\e935";
+  color: #515962;
+}
+.icon-nekit-single-date:before {
+  content: "\e934";
+  color: #515962;
+}
+.icon-nekit-single-author-box:before {
+  content: "\e933";
+  color: #515962;
+}
+.icon-nekit-single-author:before {
+  content: "\e932";
+  color: #515962;
+}
+.icon-nekit-single-content:before {
+  content: "\e92e";
+  color: #515962;
+}
+.icon-nekit-featured-image:before {
+  content: "\e92f";
+  color: #515962;
+}
+.icon-nekit-breadcrumb:before {
+  content: "\e930";
+  color: #515962;
+}
+.icon-nekit-archive-posts:before {
+  content: "\e931";
+  color: #515962;
+}
+.icon-nekit-table-of-content:before {
+  content: "\e92d";
+  color: #515962;
+}
+.icon-nekit-single-comment:before {
+  content: "\e92c";
+  color: #515962;
+}
+.icon-nekit-single-post-navigation:before {
+  content: "\e92b";
+  color: #515962;
+}
+.icon-nekit-advanced-heading:before {
+  content: "\e92a";
+  color: #515962;
+}
+.icon-nekit-tags-cloud-animation:before {
+  content: "\e929";
+  color: #515962;
+}
+.icon-nekit-theme-mode:before {
+  content: "\e927";
+  color: #515962;
+}
+.icon-nekit-tags-cloud:before {
+  content: "\e926";
+  color: #515962;
+}
+.icon-nekit-site-logo:before {
+  content: "\e925";
+  color: #515962;
+}
+.icon-nekit-site-nav-menu:before {
+  content: "\e924";
+  color: #515962;
+}
+.icon-nekit-date-time:before {
+  content: "\e923";
+  color: #515962;
+}
+.icon-calendar_833593:before {
+  content: "\e928";
+}
+.icon-nekit-single-comment-box:before {
+  content: "\e922";
+  color: #515962;
+}
+.icon-nekit-live-now-button:before {
+  content: "\e920";
+  color: #515962;
+}
+.icon-nekit-mailbox:before {
+  content: "\e921";
+  color: #515962;
+}
+.icon-nekit-main-banner-five:before {
+  content: "\e91f";
+  color: #515962;
+}
+.icon-nekit-news-filter-three:before {
+  content: "\e91c";
+  color: #515962;
+}
+.icon-nekit-news-filter-two:before {
+  content: "\e91d";
+  color: #515962;
+}
+.icon-nekit-news-filter-one:before {
+  content: "\e91e";
+  color: #515962;
+}
+.icon-nekit-news-filter-four:before {
+  content: "\e91b";
+  color: #515962;
+}
+.icon-nekit-news-block-four:before {
+  content: "\e91a";
+  color: #515962;
+}
+.icon-nekit-news-block-three:before {
+  content: "\e919";
+  color: #515962;
+}
+.icon-nekit-news-block-two:before {
+  content: "\e918";
+  color: #515962;
+}
+.icon-nekit-main-banner-two:before {
+  content: "\e917";
+  color: #515962;
+}
+.icon-nekit-main-banner-one:before {
+  content: "\e916";
+  color: #515962;
+}
+.icon-nekit-main-banner-four:before {
+  content: "\e912";
+  color: #515962;
+}
+.icon-nekit-popular-opinions:before {
+  content: "\e915";
+  color: #515962;
+}
+.icon-nekit-live-search:before {
+  content: "\e914";
+  color: #515962;
+}
+.icon-nekit-news-block-one:before {
+  content: "\e913";
+  color: #515962;
+}
+.icon-nekit-random-news:before {
+  content: "\e911";
+  color: #515962;
+}
+.icon-nekit-video-playlist:before {
+  content: "\e910";
+  color: #515962;
+}
+.icon-nekit-main-banner-three:before {
+  content: "\e90f";
+  color: #515962;
+}
+.icon-nekit-categories-collection:before {
+  content: "\e90e";
+  color: #515962;
+}
+.icon-nekit-news-timeline:before {
+  content: "\e90d";
+  color: #515962;
+}
+.icon-nekit-full-width-banner:before {
+  content: "\e90c";
+  color: #515962;
+}
+.icon-nekit-canvas-menu:before {
+  content: "\e90a";
+  color: #515962;
+}
+.icon-nekit-carousel-three:before {
+  content: "\e908";
+  color: #515962;
+}
+.icon-nekit-carousel-two:before {
+  content: "\e909";
+  color: #515962;
+}
+.icon-nekit-carousel-one:before {
+  content: "\e902";
+  color: #515962;
+}
+.icon-nekit-grid-three:before {
+  content: "\e905";
+  color: #515962;
+}
+.icon-nekit-grid-two:before {
+  content: "\e906";
+  color: #515962;
+}
+.icon-nekit-grid-one:before {
+  content: "\e907";
+  color: #515962;
+}
+.icon-nekit-back-to-top:before {
+  content: "\e904";
+  color: #515962;
+}
+.icon-nekit-ticker-news-one:before {
+  content: "\e90b";
+  color: #515962;
+}
+.icon-nekit-list-three:before {
+  content: "\e903";
+  color: #515962;
+}
+.icon-nekit-list-two:before {
+  content: "\e901";
+  color: #515962;
+}
+.icon-nekit-list-one:before {
+  content: "\e900";
+  color: #515962;
+}

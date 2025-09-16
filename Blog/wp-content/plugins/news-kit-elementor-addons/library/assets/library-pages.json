@@ -1,0 +1,1144 @@
+{
+    "news-blog-kit-one": {
+        "name": "News Blog Kit One",
+        "category": [ "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/newsblog-elementor/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-blog-kit-one/home.jpg",
+                "data_route": "sites/news-blog-kit-one/home.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/newsblog-elementor/2025/04/22/do-you-follow-any-beauty-influencers/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-blog-kit-one/single.jpg",
+                "data_route": "sites/news-blog-kit-one/single.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/newsblog-elementor/category/lifestyle/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-blog-kit-one/archive.jpg",
+                "data_route": "sites/news-blog-kit-one/archive.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-blog-kit-one.zip"
+    },
+    "free-one": {
+        "name": "One",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/home.jpg",
+                "data_route": "sites/free-one/home.json"
+            },
+            "home-two" : {
+                "name": "Home Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/home-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/home-two.jpg",
+                "data_route": "sites/free-one/home-two.json"
+            },
+            "home-three" : {
+                "name": "Home Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/home-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/home-three.jpg",
+                "data_route": "sites/free-one/home-three.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/category/fashion/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/archive.jpg",
+                "data_route": "sites/free-one/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/author.jpg",
+                "data_route": "sites/free-one/author.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-one/tales-from-extraordinary-travels/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one/single.jpg",
+                "data_route": "sites/free-one/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-free-one-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-one.zip"
+    },
+    "news-mag-kit-one": {
+        "name": "News Mag Kit One",
+        "category": [ "news", "mag" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-mag-kit/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-mag-kit-one/home.jpg",
+                "data_route": "sites/news-mag-kit-one/home.json"
+            },
+            "contact" : {
+                "name": "Contact",
+                "preview_url": "https://prev.blazethemes.com/news-mag-kit/contact/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-mag-kit-one/contact.jpg",
+                "data_route": "sites/news-mag-kit-one/contact.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-mag-kit/2025/04/08/the-rise-and-fall-of-global-markets-whats-next/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-mag-kit-one/single.jpg",
+                "data_route": "sites/news-mag-kit-one/single.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-mag-kit/category/celebrity/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-mag-kit-one/archive.jpg",
+                "data_route": "sites/news-mag-kit-one/archive.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-mag-kit-one.zip"
+    },
+    "news-builder-one": {
+        "name": "Newsbuilder One",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-builder/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one/home.jpg",
+                "data_route": "sites/news-builder-one/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-builder/category/lifestyle/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one/archive.jpg",
+                "data_route": "sites/news-builder-one/archive.json"
+            },
+            "contact" : {
+                "name": "Contact",
+                "preview_url": "https://prev.blazethemes.com/news-builder/contact-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one/contact.jpg",
+                "data_route": "sites/news-builder-one/contact.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-builder/the-struggles-and-successes-of-nations/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one/single.jpg",
+                "data_route": "sites/news-builder-one/single.json"
+            },
+            "search" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-builder/?s=the",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one/serch.jpg",
+                "data_route": "sites/news-builder-one/search.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/news-builder-one.zip"
+    },
+    "newsus-one": {
+        "name": "Newsus One",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/home.jpg",
+                "data_route": "sites/newsus-one/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/category/lifestyle/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/archive.jpg",
+                "data_route": "sites/newsus-one/archive.json"
+            },
+            "contact" : {
+                "name": "Contact",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/contact/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/contact.jpg",
+                "data_route": "sites/newsus-one/contact.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/show-me-error/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/error.jpg",
+                "data_route": "sites/newsus-one/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/sustainable-fashion-brands-to-watch/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/single.jpg",
+                "data_route": "sites/newsus-one/single.json"
+            },
+            "mega-menu" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/newsus-elementor/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one/mega-menu.jpg",
+                "data_route": "sites/newsus-one/mega-menu.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-newsus-one-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsus-one.zip"
+    },
+    "newsroom-one": {
+        "name": "Newsroom One",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/newsroom-elementor/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsroom-one/home.jpg",
+                "data_route": "sites/newsroom-one/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/newsroom-elementor/category/technology/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsroom-one/archive.jpg",
+                "data_route": "sites/newsroom-one/archive.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/newsroom-elementor/highlights-from-the-global-stage/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsroom-one/single.jpg",
+                "data_route": "sites/newsroom-one/single.json"
+            },
+            "error" : {
+                "name": "Error",
+                "preview_url": "https://prev.blazethemes.com/newsroom-elementor/lorem",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsroom-one/error.jpg",
+                "data_route": "sites/newsroom-one/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-newsroom-one-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/newsroom-one.zip"
+    },
+    "free-two": {
+        "name": "Two",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two/home.jpg",
+                "data_route": "sites/free-two/home.json"
+            },
+            "about-us" : {
+                "name": "About Us",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-two/about-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two/about-us.jpg",
+                "data_route": "sites/free-two/about-us.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-two/category/world/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two/archive.jpg",
+                "data_route": "sites/free-two/archive.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-two/lvknwkl",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two/error.jpg",
+                "data_route": "sites/free-two/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-two/your-style-guide-to-a-trendsetting-wardrobe/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two/single.jpg",
+                "data_route": "sites/free-two/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-free-two-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-two.zip"
+    },
+    "free-three": {
+        "name": "Three",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-three/home.jpg",
+                "data_route": "sites/free-three/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-three/category/finance/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-three/archive.jpg",
+                "data_route": "sites/free-three/archive.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-three/vsk",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-three/error.jpg",
+                "data_route": "sites/free-three/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-three/2023/10/05/nostalgic-recipes-for-every-season/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-three/single.jpg",
+                "data_route": "sites/free-three/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-free-three-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-three.zip"
+    },
+    "free-four": {
+        "name": "Four",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-four/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four/home.jpg",
+                "data_route": "sites/free-four/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-four/category/science/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four/archive.jpg",
+                "data_route": "sites/free-four/archive.json"
+            },
+            "contact" : {
+                "name": "Contact",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-four/contact-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four/contact.jpg",
+                "data_route": "sites/free-four/contact.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-four/nlv",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four/error.jpg",
+                "data_route": "sites/free-four/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-four/advancements-in-sports-equipment/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four/single.jpg",
+                "data_route": "sites/free-four/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-free-four-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-four.zip"
+    },
+    "free-five": {
+        "name": "Five",
+        "category": [ "news", "blog" ],
+        "type": "free",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-five/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five/home.jpg",
+                "data_route": "sites/free-five/home.json"
+            },
+            "about" : {
+                "name": "About",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-five/about-me/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five/about.jpg",
+                "data_route": "sites/free-five/about.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-five/category/lifestyle/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five/archive.jpg",
+                "data_route": "sites/free-five/archive.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-five/vekb",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five/error.jpg",
+                "data_route": "sites/free-five/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-free-five/2023/10/11/unforgettable-journeys-and-destinations/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five/single.jpg",
+                "data_route": "sites/free-five/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-free-five-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/free-five.zip"
+    },
+    "pro-one": {
+        "name": "One",
+        "category": [ "news", "sports" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/home-1.jpg",
+                "data_route": "sites/pro-one/home-1.json"
+            },
+            "home-2" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/nekit-home-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/home-2.jpg",
+                "data_route": "sites/pro-one/home-2.json"
+            },
+            "home-3" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/nekit-home-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/home-3.jpg",
+                "data_route": "sites/pro-one/home-3.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/new-grant-to-help-fix-australias-blood-pressure-problem/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/single.jpg",
+                "data_route": "sites/pro-one/single.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/category/politics/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/archive.jpg",
+                "data_route": "sites/pro-one/archive.json"
+            },
+            "contact-us" : {
+                "name": "Contact Us",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/contact-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/contact-us.jpg",
+                "data_route": "sites/pro-one/contact-us.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/?s=a",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/search.jpg",
+                "data_route": "sites/pro-one/search.json"
+            },
+            "error" : {
+                "name": "Error",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-one/v",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one/error.jpg",
+                "data_route": "sites/pro-one/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-one.zip"
+    },
+    "pro-three": {
+        "name": "Travel",
+        "category": [ "news", "sports" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/home.jpg",
+                "data_route": "sites/pro-three/home.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/embarking-on-transformative-travel-experiences/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/single.jpg",
+                "data_route": "sites/pro-three/single.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/category/solo-travel/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/archive.jpg",
+                "data_route": "sites/pro-three/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/author.jpg",
+                "data_route": "sites/pro-three/author.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/?s=a",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/search.jpg",
+                "data_route": "sites/pro-three/search.json"
+            },
+            "error" : {
+                "name": "Error",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-three/vkjb",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three/error.jpg",
+                "data_route": "sites/pro-three/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-three.zip"
+    },
+    "pro-ten": {
+        "name": "Ten",
+        "category": [ "news", "gaming" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-ten/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten/home.jpg",
+                "data_route": "sites/pro-ten/home.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-ten/battleground-showdown/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten/single.jpg",
+                "data_route": "sites/pro-ten/single.json"
+            },
+            "tournament" : {
+                "name": "Tournament",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-ten/tournament/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten/tournament.jpg",
+                "data_route": "sites/pro-ten/tournament.json"
+            },
+            "news" : {
+                "name": "News",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-ten/news/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten/news.jpg",
+                "data_route": "sites/pro-ten/news.json"
+            },
+            "challengers" : {
+                "name": "Challengers",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-ten/challengers/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten/challengers.jpg",
+                "data_route": "sites/pro-ten/challengers.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-ten.zip"
+    },
+    "pro-two": {
+        "name": "Two",
+        "category": [ "news", "sports", "lifestyle" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/home.jpg",
+                "data_route": "sites/pro-two/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/category/gadgets/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/archive.jpg",
+                "data_route": "sites/pro-two/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/author.jpg",
+                "data_route": "sites/pro-two/author.json"
+            },
+            "error" : {
+                "name": "Error",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/fkw",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/error.jpg",
+                "data_route": "sites/pro-two/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/2023/07/13/apple-market-rocket-racing/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/single.jpg",
+                "data_route": "sites/pro-two/single.json"
+            },
+            "toc" : {
+                "name": "Table Of Content",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-two/table-of-content/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two/toc.jpg",
+                "data_route": "sites/pro-two/toc.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-two.zip"
+    },
+    "pro-eight": {
+        "name": "Eight",
+        "category": [ "news", "sports", "lifestyle", "politics", "eight" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eight/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight/home.jpg",
+                "data_route": "sites/pro-eight/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eight/category/finance/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight/archive.jpg",
+                "data_route": "sites/pro-eight/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eight/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight/author.jpg",
+                "data_route": "sites/pro-eight/author.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eight/?s=a",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight/search.jpg",
+                "data_route": "sites/pro-eight/search.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eight/20000-canadian-ordered-to-evacuate-city-due-to-wildfires/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight/single.jpg",
+                "data_route": "sites/pro-eight/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eight.zip"
+    },
+    "pro-five": {
+        "name": "Five",
+        "category": [ "news", "sports", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-five/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-five/home.jpg",
+                "data_route": "sites/pro-five/home.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-five/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-five/author.jpg",
+                "data_route": "sites/pro-five/author.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-five/?s=lorem",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-five/search.jpg",
+                "data_route": "sites/pro-five/search.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-five/time-at-children-room-of-harlem-it-was-love/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-five/single.jpg",
+                "data_route": "sites/pro-five/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-five.zip"
+    },
+    "pro-four": {
+        "name": "Four",
+        "category": [ "news", "sports", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-four/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four/home.jpg",
+                "data_route": "sites/pro-four/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-four/category/health/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four/archive.jpg",
+                "data_route": "sites/pro-four/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-four/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four/author.jpg",
+                "data_route": "sites/pro-four/author.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-four/vskb",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four/error.jpg",
+                "data_route": "sites/pro-four/error.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-four/2023/08/10/5-surprising-donald-trump-opinions-on-health/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four/single.jpg",
+                "data_route": "sites/pro-four/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-four.zip"
+    },
+    "pro-nine": {
+        "name": "Nine",
+        "category": [ "news", "sports", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-nine/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-nine/home.jpg",
+                "data_route": "sites/pro-nine/home.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-nine/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-nine/author.jpg",
+                "data_route": "sites/pro-nine/author.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-nine/?s=a",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-nine/search.jpg",
+                "data_route": "sites/pro-nine/search.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-nine/2023/08/18/the-coolest-gadgets-of-the-year/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-nine/single.jpg",
+                "data_route": "sites/pro-nine/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-nine.zip"
+    },
+    "pro-seven": {
+        "name": "Seven",
+        "category": [ "news", "food", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-seven/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven/home.jpg",
+                "data_route": "sites/pro-seven/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-seven/category/drinks/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven/archive.jpg",
+                "data_route": "sites/pro-seven/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-seven/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven/author.jpg",
+                "data_route": "sites/pro-seven/author.json"
+            },
+            "search" : {
+                "name": "Search",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-seven/?s=a",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven/search.jpg",
+                "data_route": "sites/pro-seven/search.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-seven/2023/08/16/trendy-and-tasty-pre-meal-delights/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven/single.jpg",
+                "data_route": "sites/pro-seven/single.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-seven.zip"
+    },
+    "pro-six": {
+        "name": "Six",
+        "category": [ "news", "food", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/home.jpg",
+                "data_route": "sites/pro-six/home.json"
+            },
+            "about-me" : {
+                "name": "About Me",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/about-me/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/about-me.jpg",
+                "data_route": "sites/pro-six/about-me.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/category/style/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/archive.jpg",
+                "data_route": "sites/pro-six/archive.json"
+            },
+            "blog" : {
+                "name": "Blog",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/blog/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/blog.jpg",
+                "data_route": "sites/pro-six/blog.json"
+            },
+            "contact-us" : {
+                "name": "Contact Us",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/contact-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/contact-us.jpg",
+                "data_route": "sites/pro-six/contact-us.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/navigating-nostalgia-with-contemporary-fashion-statements/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/single.jpg",
+                "data_route": "sites/pro-six/single.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-six/navigatingvelnm",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six/error.jpg",
+                "data_route": "sites/pro-six/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-six.zip"
+    },
+    "pro-eleven": {
+        "name": "Eleven",
+        "category": [ "news", "food", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eleven/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven/home.jpg",
+                "data_route": "sites/pro-eleven/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eleven/category/nature/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven/archive.jpg",
+                "data_route": "sites/pro-eleven/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eleven/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven/author.jpg",
+                "data_route": "sites/pro-eleven/author.json"
+            },
+            "single" : {
+                "name": "Single",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eleven/the-devastating-environmental-impact-of-good/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven/single.jpg",
+                "data_route": "sites/pro-eleven/single.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-eleven/vwk",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven/error.jpg",
+                "data_route": "sites/pro-eleven/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-eleven.zip"
+    },
+    "pro-twelve": {
+        "name": "Twelve",
+        "category": [ "news", "blog" ],
+        "type": "pro",
+        "pages": {
+            "home" : {
+                "name": "Home",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/home.jpg",
+                "data_route": "sites/pro-twelve/home.json"
+            },
+            "archive" : {
+                "name": "Archive",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/category/livestyle/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/archive.jpg",
+                "data_route": "sites/pro-twelve/archive.json"
+            },
+            "author" : {
+                "name": "Author",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/author/prevblaze/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/author.jpg",
+                "data_route": "sites/pro-twelve/author.json"
+            },
+            "about-us" : {
+                "name": "About Us",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/about-us/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/about-us.jpg",
+                "data_route": "sites/pro-twelve/about-us.json"
+            },
+            "contact-us" : {
+                "name": "Contact Us",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/contact/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/contact-us.jpg",
+                "data_route": "sites/pro-twelve/contact-us.json"
+            },
+            "error" : {
+                "name": "404",
+                "preview_url": "https://prev.blazethemes.com/news-elementor-twelve/vlwnvw",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve/error.jpg",
+                "data_route": "sites/pro-twelve/error.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        },
+        "home_slug":  "nekit-twelve-home",
+        "external_url": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/sites/pro-twelve.zip"
+    },
+    "demo-all": {
+        "name": "All",
+        "category": [ "contact", "404", "single", "table of content" ],
+        "type": "free",
+        "pages": {
+            "contact-free-1" : {
+                "name": "Contact Page One",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/contact-free-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/contact/contact-free-1.jpg",
+                "data_route": "pages/contact/contact-free-1.json"
+            },
+            "contact-free-2" : {
+                "name": "Contact Page Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/contact-free-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/contact/contact-free-2.jpg",
+                "data_route": "pages/contact/contact-free-2.json"
+            },
+            "error-1" : {
+                "name": "404 Page One",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/vw/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/error/404-free-1.jpg",
+                "data_route": "pages/error/404-free-1.json"
+            },
+            "error-2" : {
+                "name": "404 Page Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/vlwn/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/error/404-free-2.jpg",
+                "data_route": "pages/error/404-free-2.json"
+            },
+            "single-free-1" : {
+                "name": "Single Post 1",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/inspirational-stories-of-young-female-achievers/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-free-1.jpg",
+                "data_route": "pages/single/single-free-1.json"
+            },
+            "single-free-2" : {
+                "name": "Single Post 2",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/the-irresistible-charm-of-cute-puppies/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-free-2.jpg",
+                "data_route": "pages/single/single-free-2.json"
+            },
+            "single-free-3" : {
+                "name": "Single Post 3",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/the-remarkable-world-of-birds-and-their-unique-behaviors/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-free-3.jpg",
+                "data_route": "pages/single/single-free-3.json"
+            },
+            "toc-free-1" : {
+                "name": "Table Of Content 1",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-free-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-free-1.jpg",
+                "data_route": "pages/toc/toc-free-1.json"
+            },
+            "toc-free-2" : {
+                "name": "Table Of Content 2",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-free-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-free-2.jpg",
+                "data_route": "pages/toc/toc-free-2.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        }
+    },
+    "demo-all-pro": {
+        "name": "All",
+        "category": [ "contact", "404", "single", "table of content" ],
+        "type": "pro",
+        "pages": {
+            "contact-pro-1" : {
+                "name": "Contact Page One",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/contact-pro-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/contact/contact-pro-1.jpg",
+                "data_route": "pages/contact/contact-pro-1.json"
+            },
+            "contact-pro-2" : {
+                "name": "Contact Page Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/contact-pro-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/contact/contact-pro-2.jpg",
+                "data_route": "pages/contact/contact-pro-2.json"
+            },
+            "contact-pro-3" : {
+                "name": "Contact Page Three",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/contact-pro-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/contact/contact-pro-3.jpg",
+                "data_route": "pages/contact/contact-pro-3.json"
+            },
+            "404-pro-1" : {
+                "name": "404 Page One",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/vkwbn/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/error/404-pro-1.jpg",
+                "data_route": "pages/error/404-pro-1.json"
+            },
+            "404-pro-2" : {
+                "name": "404 Page Two",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/vkwbn/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/error/404-pro-2.jpg",
+                "data_route": "pages/error/404-pro-2.json"
+            },
+            "404-pro-3" : {
+                "name": "404 Page Three",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/vkwbn/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/error/404-pro-3.jpg",
+                "data_route": "pages/error/404-pro-3.json"
+            },
+            "single-pro-1" : {
+                "name": "Single Post 1",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/what-to-watch-in-the-coming-months/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-1.jpg",
+                "data_route": "pages/single/single-pro-1.json"
+            },
+            "single-pro-2" : {
+                "name": "Single Post 2",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/latest-projects-and-behind-the-scenes-gossip/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-2.jpg",
+                "data_route": "pages/single/single-pro-2.json"
+            },
+            "single-pro-3" : {
+                "name": "Single Post 3",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/seven-peterborough-businesses-awarded-start-up-grants/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-3.jpg",
+                "data_route": "pages/single/single-pro-3.json"
+            },
+            "single-pro-4" : {
+                "name": "Single Post 4",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/trump-appointed-judge-gives-a-break-to-jan/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-4.jpg",
+                "data_route": "pages/single/single-pro-4.json"
+            },
+            "single-pro-5" : {
+                "name": "Single Post 5",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/michelle-obama-launches-company-to-promote-healthy-food-for-kids/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-5.jpg",
+                "data_route": "pages/single/single-pro-5.json"
+            },
+            "single-pro-6" : {
+                "name": "Single Post 6",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/macron-putin-ties-hold-back-french-nato-push-on-ukraine/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-6.jpg",
+                "data_route": "pages/single/single-pro-6.json"
+            },
+            "single-pro-7" : {
+                "name": "Single Post 7",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/horse-racing-back-on-july-11/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-7.jpg",
+                "data_route": "pages/single/single-pro-7.json"
+            },
+            "single-pro-8" : {
+                "name": "Single Post 8",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/jack-nowell-makes-himself-unavailable-for-world-cup/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-8.jpg",
+                "data_route": "pages/single/single-pro-8.json"
+            },
+            "single-pro-9" : {
+                "name": "Single Post 9",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/nba-quiz-where-is-the-pass-going/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-9.jpg",
+                "data_route": "pages/single/single-pro-9.json"
+            },
+            "single-pro-10" : {
+                "name": "Single Post 10",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/new-milan-hot-spots-for-the-fashion-crowd-wwd/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/single/single-pro-10.jpg",
+                "data_route": "pages/single/single-pro-10.json"
+            },
+            "toc-pro-1" : {
+                "name": "Table Of Content 1",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-one/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-pro-1.jpg",
+                "data_route": "pages/toc/toc-pro-1.json"
+            },
+            "toc-pro-2" : {
+                "name": "Table Of Content 2",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-two/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-pro-2.jpg",
+                "data_route": "pages/toc/toc-pro-2.json"
+            },
+            "toc-pro-3" : {
+                "name": "Table Of Content 3",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-three/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-pro-3.jpg",
+                "data_route": "pages/toc/toc-pro-3.json"
+            },
+            "toc-pro-4" : {
+                "name": "Table Of Content 4",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-four/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-pro-4.jpg",
+                "data_route": "pages/toc/toc-pro-4.json"
+            },
+            "toc-pro-5" : {
+                "name": "Table Of Content 5",
+                "preview_url": "https://prev.blazethemes.com/news-elementor/table-of-content-five/",
+                "screenshot": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/pages/toc/toc-pro-5.jpg",
+                "data_route": "pages/toc/toc-pro-5.json"
+            }
+        },
+        "navs": {
+            "menu-1": ""
+        }
+    }
+}

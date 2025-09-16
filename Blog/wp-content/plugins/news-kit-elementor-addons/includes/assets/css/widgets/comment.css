@@ -1,0 +1,363 @@
+/*
+*
+*SINGLE COMMENT STYLE
+*
+*/
+
+
+
+
+	/* Single Post Comment */
+		.nekit-single-comment-box .comments-area h2.comments-title {
+			font-family: 'Roboto', sans-serif;
+		    font-size: 18px;
+		    letter-spacing: -.005em;
+		    font-weight: 500;
+		}
+
+		.nekit-single-comment-box .comment-meta .comment-author.vcard {
+			margin-top: -25px;
+		}
+
+		.nekit-single-comment-box .read-time:before {
+		    margin: 0 5px;
+		    content: "\f5da";
+		    font-family: 'Font Awesome 5 Free';
+		    padding: 0 2px 0 7px;
+		    margin-left: 0;
+		    font-size: 12px;
+		    font-weight: 900;
+		    margin-left: 3px;
+		}
+
+		.nekit-single-comment-box .comments-area h2.comments-title span {
+		    font-style: italic;
+		    text-decoration: underline;
+		}
+
+		.nekit-single-comment-box ol.comment-list {
+			margin-left: 0;
+			padding-left: 0;
+		}
+
+		.nekit-single-comment-box ol.comment-list li {
+			margin-bottom: 15px;
+			position: relative;
+		}
+
+		.nekit-single-comment-box ol.comment-list li a {
+			text-decoration: none;
+			color: inherit;
+			font-family: 'Roboto', sans-serif;
+		}
+
+		.nekit-single-comment-box .comment-list .comment-meta > div {
+			display: inline-block;
+		}
+
+		.nekit-single-comment-box .comment-list .comment-author img {
+		    margin-right: 20px;
+		    width: 40px;
+		    bottom: -25px;
+		    position: relative;
+		    display: inline-block;
+		}
+
+		.nekit-single-comment-box .comment-list .comment-author a {
+	    	margin-right: 3px;
+		}
+
+		.nekit-single-comment-box .comment-metadata,
+		.nekit-single-comment-box .says {
+			font-size: 14px;
+		    font-weight: 400;
+		}
+
+		.nekit-single-comment-box .edit-link {
+			color: #000;
+			margin-left: 5px;
+			font-size: 15px;
+		}
+
+		.nekit-single-comment-box .comment-list .reply {
+			position: relative;
+	    	right: 15px;
+		    font-size: 12px;
+		    text-align: right;
+		    float: right;
+		    margin-top: -29px;
+		}
+
+		.nekit-single-comment-box .comment-list .reply a {
+		    color: #999;
+		    padding: 5px 0;
+		    display: block;
+		    letter-spacing: .03em;
+		    font-family: 'Roboto', sans-serif;
+		    text-transform: uppercase;
+		}
+
+		.nekit-single-comment-box .comment-list .reply a:before {
+			content: '\f064';
+		    font-family: 'Font Awesome 5 Free';
+		    font-weight: 900;
+		    padding-right: 6px;
+		}
+
+		.nekit-single-comment-box ol.children {
+			margin-top: 10px;
+		}
+
+		.nekit-single-comment-box ol.children .comment-content p {
+			font-size: 0.9rem;
+		}
+
+		/* Form */
+		.nekit-single-comment-box .comment-respond h3 {
+		    font-size: 1.1rem;
+		    margin: 0 0 20px;
+		    text-transform: uppercase;
+		    font-family: 'Roboto', sans-serif;
+		}
+
+		.nekit-single-comment-box .comment-form {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+		}
+
+		.nekit-single-comment-box .comment-form > * {
+			width: 100%;
+		}
+
+		.nekit-single-comment-box .comment-form p {
+			margin: 0 0 20px;
+			color: #777;
+		}
+
+		.nekit-single-comment-box .comment-form .comment-form-comment textarea {
+			display: block;
+		}
+
+		.nekit_dark_mode .nekit-single-comment-box .comment-form .comment-form-comment textarea,
+		.nekit_dark_mode .nekit-single-comment-box form.comment-form p input {
+			background: #202024;
+	    	border-color: #525252;
+	    	color: #fff;
+		}
+
+		.nekit-single-comment-box .comment-form-author,
+		.nekit-single-comment-box .comment-form-email,
+		.nekit-single-comment-box .comment-form-url {
+			width: calc(33% - 15px);
+		}
+
+		.nekit-single-comment-box .comment-form-author input,
+		.nekit-single-comment-box .comment-form-email input,
+		.nekit-single-comment-box .comment-form-url input {
+			width: 100%;
+			height: 41px;
+		}
+
+		.nekit-single-comment-box .comment-form .comment-form-cookies-consent label {
+			margin-left: 6px;
+			font-size: 0.95rem;
+		}
+
+		.nekit-single-comment-box .comment-form .form-submit input {
+		    padding: 15px 20px;
+		    vertical-align: middle;
+		    font-size: 13px;
+		    text-transform: uppercase;
+			margin-top: 10px;
+		    font-family: 'Roboto', sans-serif;
+		    font-weight: 700;
+		    letter-spacing: .03em;
+		    color: #fff;
+		    background-color: #333333;
+		    border: none;
+		    cursor: pointer;
+		}
+
+		.nekit-single-comment-box #comments ol.comment-list {
+			padding: 20px;
+	    	border: 1px solid #cccccc;
+	    	list-style: none;
+	    	margin-bottom: 20px;
+		}
+
+		@media (max-width: 1024px) {
+			.nekit-single-comment-box .comment-form-author,
+			.nekit-single-comment-box .comment-form-email,
+			.nekit-single-comment-box .comment-form-url {
+				width: 100%;
+			}
+		}
+
+
+	/*
+	--------------------------------
+		COMMENT STYLES
+	--------------------------------
+	*/
+
+		.nekit-single-comment-box .nekit-single-comment-box .comments-title {
+			margin: 0 0 20px;
+			font-weight: 600;
+			font-size: 22px;
+		}
+
+		.nekit-single-comment-box .comment-list {
+			margin: 0;
+			padding: 0 20px;
+		}
+
+		.nekit-single-comment-box .comment-list .comment+.comment {
+			padding-top: 20px;
+			margin-top: 20px;
+			border-top: 1px solid #e9e9e9;
+		}
+
+		.nekit-single-comment-box .comment-reply-title {
+			font-size: 20px;
+			text-transform: uppercase;
+		}
+
+		.nekit-single-comment-box #cancel-comment-reply-link {
+			color: #ff0000;
+			font-size: 12px;
+			margin-left: 15px;
+		}
+
+		.nekit-single-comment-box .comment-author .fn a {
+			color: #000;
+			font-size: 16px;
+		}
+
+		.nekit-single-comment-box .comment-metadata time {
+			color: #000;
+			font-size: 14px;
+			font-weight: 500;
+			margin-top: 6px;
+			display: inline-block;
+		}
+
+		.nekit-single-comment-box .edit-link a {
+			color: #0d3ff7;
+			font-size: 15px;
+			margin-left: 10px;
+			font-weight: 500;
+			text-decoration: underline;
+		}
+
+		.nekit-single-comment-box .comment-content {
+			margin-top: 15px;
+		}
+
+		.nekit-single-comment-box .comment-content p {
+			margin: 0 0 15px;
+			line-height: 24px;
+			color: #4a4a4a;
+		}
+
+		.nekit-single-comment-box .comment-content li {
+			margin-bottom: 8px;
+			font-weight: 400;
+			font-size: 14px;
+			color: #000;
+		}
+
+		.nekit-single-comment-box .reply a {
+			color: #0d3ff7;
+			font-size: 14px;
+			font-weight: 500;
+			text-decoration: none;
+		}
+
+
+		/* FORM STYLES */
+			.nekit-single-comment-box .comment-form > * {
+				width: 100%;
+			}
+
+			.nekit-single-comment-box .comment-form {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: space-between;
+				-webkit-justify-content: space-between;
+				padding: 20px;
+				border: 1px solid #cccccc;
+			}
+
+			.nekit-single-comment-box .comment-notes,
+			.nekit-single-comment-box .logged-in-as,
+			.nekit-single-comment-box .comment-form-cookies-consent label {
+				font-size: 15px;
+			}
+
+			.nekit-single-comment-box .comment-form-cookies-consent input {
+				margin-right: 4px;
+				widtha: 12px;
+			}
+
+			.nekit-single-comment-box .comment-form p {
+				margin: 0 0 20px;
+				color: #777;
+			}
+
+			.nekit-single-comment-box .comment-form .comment {
+				display: block;
+			}
+
+			.nekit-single-comment-box .comment-form .comment-form-comment textarea {
+				resize: vertical;
+			}
+
+			.nekit-single-comment-box .comment-form .comment-form-author,
+			.nekit-single-comment-box .comment-form .comment-form-email,
+			.nekit-single-comment-box .comment-form .comment-form-url {
+				width: calc(33% - 10px);
+			}
+
+			.nekit-single-comment-box .comment-form .comment-form-comment label,
+			.nekit-single-comment-box .comment-form .comment-form-author label,
+			.nekit-single-comment-box .comment-form .comment-form-email label,
+			.nekit-single-comment-box .comment-form .comment-form-url label {
+				font-size: 14px;
+				margin-bottom: 8px;
+				display: inline-block;
+				font-weight: 500;
+			}
+
+			.nekit-single-comment-box .comment-form .comment-form-author input,
+			.nekit-single-comment-box .comment-form .comment-form-email input,
+			.nekit-single-comment-box .comment-form .comment-form-url input {
+				width: 100%;
+				height: 41px;
+			}
+
+			.nekit-single-comment-box .comment-form .form-submit {
+				margin: 0;
+			}
+
+			.nekit-single-comment-box .comment-form .form-submit .submit {
+				cursor: pointer;
+				font-weight: 600;
+				text-transform: uppercase;
+				border: none;
+			}
+
+
+		/*
+		------------------------
+			RESPONSIVE
+		------------------------
+		*/
+
+			@media (max-width: 768px) {
+				.nekit-single-comment-box .comment-form .comment-form-author,
+				.nekit-single-comment-box .comment-form .comment-form-email,
+				.nekit-single-comment-box .comment-form .comment-form-url {
+					width: 100%;
+				}
+			}

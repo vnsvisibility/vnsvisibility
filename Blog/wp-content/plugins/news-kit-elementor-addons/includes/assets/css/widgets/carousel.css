@@ -1,0 +1,212 @@
+/*
+*
+*	NEWS CAROUSEL STYLES
+*
+*/
+	
+
+ 	/*
+ 	-----------------------------------------
+		NEWS CAROUSEL
+ 	----------------------------------------
+ 	*/
+		/* BUTTON STYLE */
+			.nekit-carousel-widget .slick-arrow {
+			    position: absolute;
+			    cursor: pointer;
+			    border: none;
+			    z-index: 1;
+			    top: 50%;
+			    opacity: 0;
+			    transform: translateY(-50%);
+			    -webkit-transition: 0.5s ease;
+			    transition: 0.5s ease;
+			}
+
+			.nekit-carousel-widget .news-carousel-post-wrap:hover .slick-arrow {
+				opacity: 1;
+			}
+
+			.nekit-carousel-widget .slick-arrow.slick-prev {
+				left: 30px;
+			}
+
+			.nekit-carousel-widget .slick-arrow.slick-next {
+				right: 30px;
+			}
+
+		/* SLICK DOTS STYLE */
+			.nekit-carousel-widget .slick-dots {
+			    position: absolute;
+			    display: block;
+			    width: 80%;
+			    padding: 0;
+			    margin: 0;
+			    list-style: none;
+			    top: 6px;
+			    text-align: right;
+			    right: 0;
+			}
+
+			.nekit-carousel-widget .slick-dots li {
+				position: relative;
+				display: inline-block;
+				padding: 0;
+				margin: 0 8px;
+			}
+
+			.nekit-carousel-widget .slick-dots li.slick-active {
+				background-color: #FD4F18;
+				border-radius: 50%;
+			}
+
+			.nekit-carousel-widget .slick-dots button {
+				font-size: 0;
+				display: block;
+				width: 10px;
+				height: 10px;
+				cursor: pointer;
+				outline: none;
+				background: transparent;
+				border: 1px solid #FD4F18;
+				border-radius: 50%;
+			}
+
+		/* CAROUSEL POST STYLE */
+			.nekit-carousel-widget .slick-list {
+				margin: 0 -8px;
+			}
+
+			.nekit-carousel-widget .carousel-item {
+				padding: 2px 8px;
+			}
+
+			.nekit-carousel-widget .nekit-item-box-wrap {
+			    transition: all .3s ease;
+			    overflow: hidden;
+		 	}
+
+		 	.nekit-carousel-widget .post-thumb-wrap {
+		 		position: relative;
+		 		overflow: hidden;
+		 	}
+
+		 	.nekit-carousel-widget .post-thumb-wrap > a {
+		 		position: absolute;
+		 		width: 100%;
+		 		height: 100%;
+		 		left: 0;
+		 	}
+
+		 	.nekit-carousel-widget img {
+		 		height: 100%;
+		 		width: 100%;
+			    position: absolute;
+			    object-fit: cover;
+			    top: 50%;
+			    left: 50%;
+			    transform: scale(1.1) translate(-50%,-50%);
+		 	}
+
+		 	.nekit-carousel-widget .post-categories {
+		 		padding: 0;
+		 		margin: 0;
+		 	}
+
+		 	.nekit-carousel-widget .post-categories li {
+				display: inline-block;
+				list-style: none;
+			}
+
+		 	.nekit-carousel-widget .post-categories li a {
+		 		display: inline-block;
+		 		font-family: 'Jost';
+		 		font-size: 11px;
+		 		text-transform: uppercase;
+		 		background-color: #333;
+		 		color: #fff;
+		 		font-weight: 500;
+		 		padding: 3px 7px;
+		 	}
+
+		 	.nekit-carousel-widget .post-title {
+		 		font-family: 'Rubik';
+		 		font-weight: 500;
+		 		margin: 10px 0 8px;
+		 	}
+
+		 	.nekit-carousel-widget .post-title a {
+		 		color: #000;
+		 	}
+
+		 	.nekit-carousel-widget .post-meta span {
+		 		display: inline-block;
+		 	}
+
+ 	/*
+ 	-----------------------------------------
+		NEWS CAROUSEL LAYOUT ONE
+ 	----------------------------------------
+ 	*/
+
+	 	.nekit-news-carousel-one-posts-wrap .post-categories {
+		    position: absolute;
+		    bottom: 10px;
+		    left: 10px;
+		    z-index: 1;
+		}
+
+
+	/*
+ 	-----------------------------------------
+		NEWS CAROUSEL LAYOUT TWO
+ 	----------------------------------------
+ 	*/
+
+		.nekit-news-carousel-two-posts-wrap .post-element {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 100%;
+			text-align: center;
+			padding: 20px;
+			z-index: 1;
+		}
+
+		.nekit-news-carousel-two-posts-wrap .post-element .post-title a {
+			color: #fff;
+		}
+
+		.nekit-news-carousel-two-posts-wrap.nekit-widget-section .post-meta span {
+			color: #fff;
+		}
+
+
+	/*
+ 	-----------------------------------------
+		NEWS CAROUSEL LAYOUT THREE
+ 	----------------------------------------
+ 	*/
+
+		.nekit-news-carousel-three-posts-wrap .post-element {
+			position: relative;
+			width: 85%;
+			margin-inline: auto;
+			text-align: center;
+			margin-top: -2rem;
+			background-color: #fff;
+			padding: 15px;
+			z-index: 1;
+		}
+
+		.nekit-news-carousel-three-posts-wrap .section-no-thumbnail .post-element {
+			margin-top: 0;
+			width: 100%;
+		}
+
+		.nekit-news-carousel-three-posts-wrap .post-categories li a {
+			background-color: transparent;
+			padding: 0;
+			color: #333;
+		}

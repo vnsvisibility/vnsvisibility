@@ -1,0 +1,44 @@
+<wpml-config>
+	<admin-texts>
+	  <key name="current_theme"/>
+	  <key name="theme_mods_blogone-pro">
+	  	<key name="0"/>
+	  	<key name="nav_menu_locations"/>
+	  	<key name="blogone_topbar_search_label"/>
+	  	<key name="blogone_topbar_canvas_desc"/>
+	  	<key name="blogone_topbar_canvas_contact_title"/>
+	  	<key name="blogone_topbar_canvas_search_title"/>
+	  	<key name="blogone_topbar_canvas_search_label"/>
+	  	<key name="blogone_nav_btn_label"/>
+	  	<key name="blogone_nav_btn_link"/>
+	  	<key name="blogone_archive_readmore_label"/>
+	  	<key name="blogone_slider_readmore"/>
+	  	<key name="blogone_blog_readmore"/>
+	  	<key name="blogone_subscribe_title"/>
+	  	<key name="blogone_subscribe_desc"/>
+	  	<key name="blogone_footer_copyright"/>
+	  	<key name="blogone_cp_form_title"/>
+	  	<key name="blogone_error_subtitle"/>
+	  	<key name="blogone_error_title"/>
+	  	<key name="blogone_error_desc"/>
+	  	<key name="blogone_error_btn_label"/>	  	
+	  	<key name="blogone_topbar_canvas_contact_content">
+	  		<key name="*">
+	  			<key name="text"/>
+	  		</key>
+	  	</key>
+	  	<key name="blogone_footer_copyright_content">
+	  		<key name="*">
+	  			<key name="text"/>	  			
+	  			<key name="link"/>	  			
+	  		</key>
+	  	</key>
+	  	<key name="blogone_cp_content">
+	  		<key name="*">
+	  			<key name="title"/>
+	  			<key name="text"/>
+	  		</key>
+	  	</key>	  	
+	  </key>	  
+	</admin-texts>
+</wpml-config>

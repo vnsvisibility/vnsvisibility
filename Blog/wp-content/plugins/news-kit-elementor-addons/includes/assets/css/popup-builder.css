@@ -1,0 +1,104 @@
+/* *
+* Popup Builder
+*/
+
+.nekit-popup-open.nekit-scroll--disabled {
+    overflow: hidden;
+}
+
+.nekit-popup-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+body[data-elementor-device-mode="desktop"] .nekit-popup-wrapper.desktop--on,
+body[data-elementor-device-mode="tablet"] .nekit-popup-wrapper.tablet--on,
+body[data-elementor-device-mode="mobile"] .nekit-popup-wrapper.smartphone--on {
+    display: block;
+}
+
+body[data-elementor-device-mode="desktop"] .nekit-popup-wrapper:not(.is-open),
+body[data-elementor-device-mode="tablet"] .nekit-popup-wrapper:not(.is-open),
+body[data-elementor-device-mode="mobile"] .nekit-popup-wrapper:not(.is-open) {
+    display: none;
+}
+
+.nekit-popup-wrapper .nekit-popup-container {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.nekit-popup-wrapper .nekit-popup-container .nekit-popup-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+/* Close Button */
+    .nekit-popup-wrapper .nekit-popup-container .nekit-popup-inner-container {
+        position: relative;
+    }
+
+    body .nekit-popup-wrapper .nekit-popup-close {
+        display: none;
+    }
+
+    .nekit-popup-container .nekit-popup-inner-container .nekit-popup-close {
+        position: absolute;
+        z-index: 1;
+        padding: 0;
+        border-radius: 0;
+        line-height: initial;
+    }
+
+    .nekit-popup-container .nekit-popup-inner-container .nekit-popup-close span.dashicons {
+        display: inline;
+    }
+
+.nekit-popup-container .nekit-popup-wrap {
+    overflow: hidden;
+    padding: 10px;
+}
+
+.nekit-popup-container .nekit-popup {
+    overflow-y: auto;
+}
+
+.nekit-popup-wrapper.height-auto .nekit-popup-container .nekit-popup {
+    height: auto;
+    overflow: hidden;
+}
+
+/* Scrollbar */
+.nekit-scrollbar::-webkit-scrollbar {
+    width: 2px;
+}
+
+.nekit-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #000;
+    border-radius: 50px;
+}
+
+/* Top Bar Banner */
+body.as-top-bar {
+    overflow: initial;
+}
+
+.nekit-popup-wrapper.as-top-bar,
+.nekit-popup-wrapper.as-top-bar .nekit-popup-container {
+    position: initial;
+}
+
+.nekit-popup-wrapper.as-top-bar .nekit-popup-inner-container {
+    width: 100%;
+}

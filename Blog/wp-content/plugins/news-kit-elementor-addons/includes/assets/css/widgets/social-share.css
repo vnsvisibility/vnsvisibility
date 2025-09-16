@@ -1,0 +1,592 @@
+/*
+*
+*	SOCIAL SHARE STYLES
+*
+*/
+	
+
+/*
+-----------------------------------------
+	SOCIAL SHARE
+----------------------------------------
+*/
+
+	/* PREFIX STYLE */
+		.nekit-social-share.items-orientation--horizontal {
+			display: flex;
+			align-items: center;
+			-align-items: center;
+			gap: 15px;
+		}
+
+		.nekit-social-share .social-share-prefix {
+			display: flex;
+			gap: 13px;
+			align-items: center;
+			-webkit-align-items: center;
+		}
+
+		.nekit-social-share .prefix-text {
+			margin: 0;
+			font-family: 'Rubik';
+			font-weight: 600;
+			font-size: 20px;
+			display: inline-block;
+		}
+
+		.nekit-social-share.items-orientation--horizontal .social-share-wrap {
+			flex: 1;
+		}
+
+		.nekit-social-share.items-orientation--vertical .social-share-wrap {
+			margin-top: 15px;
+		}
+
+		
+
+	.nekit-social-share .social-share-wrap {
+		margin: 0;
+		padding: 0;
+		display: grid;
+		gap: 15px;
+	}
+
+	/* COLUMN */
+		/* DESKTOP COLUMN */
+			.nekit-social-share.column--five .social-share-wrap {
+				grid-template-columns: repeat(5, 1fr);
+			}
+
+			.nekit-social-share.column--four .social-share-wrap {
+				grid-template-columns: repeat(4, 1fr);
+			}
+
+			.nekit-social-share.column--three .social-share-wrap {
+				grid-template-columns: repeat(3, 1fr);
+			}
+
+			.nekit-social-share.column--two .social-share-wrap {
+				grid-template-columns: repeat(2, 1fr);
+			}
+
+			.nekit-social-share.column--one .social-share-wrap {
+				grid-template-columns: 100%;
+			}
+
+		.elementor-widget-nekit-social-share .nekit-social-share.items-orientation--vertical .social-share-wrap {
+		    grid-template-columns: repeat(1, 1fr);
+		}
+
+		/* TABLET COLUMN */
+			@media (max-width: 1024px) {
+				.nekit-social-share.tablet-column--five .social-share-wrap {
+					grid-template-columns: repeat(5, 1fr);
+				}
+
+				.nekit-social-share.tablet-column--four .social-share-wrap {
+					grid-template-columns: repeat(4, 1fr);
+				}
+
+				.nekit-social-share.tablet-column--three .social-share-wrap {
+					grid-template-columns: repeat(3, 1fr);
+				}
+
+				.nekit-social-share.tablet-column--two .social-share-wrap {
+					grid-template-columns: repeat(2, 1fr);
+				}
+
+				.nekit-social-share.tablet-column--one .social-share-wrap {
+					grid-template-columns: 100%;
+				}
+
+				.elementor-widget-nekit-social-share .nekit-social-share.items-orientation--vertical .social-share-wrap {
+				    grid-template-columns: repeat(1, 1fr);
+				}
+			}
+
+		/* MOBILE COLUMN */
+			@media (max-width: 767px) {
+				.nekit-social-share.mobile-column--five .social-share-wrap {
+					grid-template-columns: repeat(5, 1fr);
+				}
+
+				.nekit-social-share.mobile-column--four .social-share-wrap {
+					grid-template-columns: repeat(4, 1fr);
+				}
+
+				.nekit-social-share.mobile-column--three .social-share-wrap {
+					grid-template-columns: repeat(3, 1fr);
+				}
+
+				.nekit-social-share.mobile-column--two .social-share-wrap {
+					grid-template-columns: repeat(2, 1fr);
+				}
+
+				.nekit-social-share.mobile-column--one .social-share-wrap {
+					grid-template-columns: 100%;
+				}
+
+				.elementor-widget-nekit-social-share .nekit-social-share.items-orientation--vertical .social-share-wrap {
+				    grid-template-columns: repeat(1, 1fr);
+				}
+		
+			}
+	.nekit-social-share.social-share--on .social-share-prefix {
+		cursor: pointer;
+	}
+
+	.nekit-social-share.social-share--on .social-share-wrap {
+		opacity: 0;
+	}
+
+	.nekit-social-share.social-share--on .social-share-wrap.isactive {
+		opacity: 1;
+	}
+
+	.nekit-social-share .social-share-wrap li {
+		list-style: none;
+	}
+
+	.nekit-social-share .social-share-wrap li a {
+		padding: 10px;
+		width: 100%;
+		justify-content: center;
+		-webkit-justify-content: center;
+		align-items: center;
+		-webkit-align-items: center;
+		display: flex;
+		gap: 10px;
+		/* border: 1px solid; */
+	}
+
+	.nekit-social-share .social-share-title {
+		font-size: 14px;
+		font-weight: 400;
+		font-family: 'Rubik';
+	}
+
+	/* HOVER ANIMATION */
+		.nekit-social-share .social-share a {
+			transition: all .25s cubic-bezier(.02,.01,.47,1);
+		}
+
+		.nekit-social-share.social-hover-effect--one .social-share a:hover {
+		    transform: translateY(-3px);
+		}
+
+		/* ANIMATION TWO */
+			.nekit-social-share.social-hover-effect--two .social-share a:hover {
+			    transform: translateX(3px);
+			}
+
+		/* ANIMATION THREE */
+			.nekit-social-share.social-hover-effect--three .social-share a:hover {
+			    transform: translateY(3px);
+			}
+
+
+		/* ANIMATION FOUR */
+			.nekit-social-share.social-hover-effect--four .social-share a:hover {
+			    transform: scale(0.98);
+			}
+
+	/* OFFICIAL COLOR */
+		.nekit-social-share.official-color--on .facebook a {
+			background-color: #1877F2;
+		}
+
+		.nekit-social-share.official-color--on .twitter a {
+			background-color: #1DA1F2;
+		}
+
+		.nekit-social-share.official-color--on .linkedin a {
+			background-color: #0A66C2;
+		}
+
+		.nekit-social-share.official-color--on .reddit a {
+			background-color: #FF5700;
+		}
+
+		.nekit-social-share.official-color--on .tumblr a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .sina_weibo a {
+			background-color: #DF2029;
+		}
+
+		.nekit-social-share.official-color--on .discord a {
+			background-color: #7289da;
+		}
+
+		.nekit-social-share.official-color--on .flicker a {
+			background-color: #FF0084;
+		}
+
+		.nekit-social-share.official-color--on .skype a {
+			background-color: #00AFF0;
+		}
+
+		.nekit-social-share.official-color--on .telegram a {
+			background-color: #2AABEE;
+		}
+
+		.nekit-social-share.official-color--on .gmail a {
+			background-color: #34a853;
+		}
+
+		.nekit-social-share.official-color--on .whatsapp a {
+			background-color: #25d366;
+		}
+
+		.nekit-social-share.official-color--on .google_plus a {
+			background-color: #dd4b39;
+		}
+
+		.nekit-social-share.official-color--on .qzone a {
+			background-color: #FFCD00;
+		}
+
+		.nekit-social-share.official-color--on .pinterest a {
+			background-color: #E60023;
+		}
+
+		.nekit-social-share.official-color--on .vk a {
+			background-color: #4C75A3;
+		}
+
+		.nekit-social-share.official-color--on .line_me a {
+			background-color: #06C755;
+		}
+
+		.nekit-social-share.official-color--on .blogger a {
+			background-color: #fb8f3d;
+		}
+
+		.nekit-social-share.official-color--on .evernote a {
+			background-color: #00A82D;
+		}
+
+		.nekit-social-share.official-color--on .live_journal a {
+			background-color: #00adcc;
+		}
+
+		.nekit-social-share.official-color--on .google_bookmarks a {
+			background-color: #DB4437;
+		}
+
+		.nekit-social-share.official-color--on .yahoo a {
+			background-color: #410093;
+		}
+
+		.nekit-social-share.official-color--on .okru a {
+			background-color: #ed812b;
+		}
+
+		.nekit-social-share.official-color--on .google_meet a {
+			background-color: #00832D;
+		}
+
+		.nekit-social-share.official-color--on .viber a {
+			background-color: #7360F2;
+		}
+
+		.nekit-social-share.official-color--on .google_classroom a {
+			background-color: #eda306;
+		}
+
+		.nekit-social-share.official-color--on .pocket a {
+			background-color: #ED4255;
+		}
+
+		.nekit-social-share.official-color--on .mix a {
+			background-color: #FF8126;
+		}
+
+		.nekit-social-share.official-color--on .flipbloard a {
+			background-color: #e12828;
+		}
+
+		.nekit-social-share.official-color--on .xing a {
+			background-color: #026466;
+		}
+
+		.nekit-social-share.official-color--on .digg a {
+			background-color: #005be2;
+		}
+
+		.nekit-social-share.official-color--on .stumpleupon a {
+			background-color: #EB471D;
+		}
+
+		.nekit-social-share.official-color--on .delicious a {
+			background-color: #585e46;
+		}
+
+		.nekit-social-share.official-color--on .buffer a {
+			background-color: #9FF6F9;
+		}
+
+		.nekit-social-share.official-color--on .diaspora a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .hackernews a {
+			background-color: #FF6600;
+		}
+
+		.nekit-social-share.official-color--on .instapaper a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .renren a {
+			background-color: #01579B;
+		}
+
+		.nekit-social-share.official-color--on .threema a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .sms a {
+			background-color: #8cb4f3;
+		}
+
+		.nekit-social-share.official-color--on .diigo a {
+			background-color: #4487C7;
+		}
+
+		.nekit-social-share.official-color--on .wordpress a {
+			background-color: #00749C;
+		}
+
+		.nekit-social-share.official-color--on .pocketcasts a {
+			background-color: #F43E37;
+		}
+
+		.nekit-social-share.official-color--on .castro a {
+			background-color: #44232f;
+		}
+
+		.nekit-social-share.official-color--on .douban a {
+			background-color: #46C05A;
+		}
+
+		.nekit-social-share.official-color--on .mewe a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .copy_link a {
+			background-image: linear-gradient(151deg, #F8997D 0%, #AD336D 100%);
+		}
+
+		.nekit-social-share.official-color--on .print a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .gettr a {
+			background-color: #D60909;
+		}
+
+		.nekit-social-share.official-color--on .parler a {
+			background-color: #D009D6;
+		}
+
+		.nekit-social-share.official-color--on .gab a {
+			background-color: #09D63E;
+		}
+
+		.nekit-social-share.official-color--on .yummly a {
+			background-color: #e16120;
+		}
+
+		.nekit-social-share.official-color--on .aim a {
+			background-color: #F10202;
+		}
+
+		.nekit-social-share.official-color--on .amazon_wish_list a {
+			background-color: #061421;
+		}
+
+		.nekit-social-share.official-color--on .bitty_browser a {
+			background-color: #09D63E;
+		}
+
+		.nekit-social-share.official-color--on .blinklist a {
+			background-color: #12E949;
+		}
+
+		.nekit-social-share.official-color--on .blogmarks a {
+			background-color: #D8AE0C;
+		}
+
+		.nekit-social-share.official-color--on .bookmarks_fr a {
+			background-color: #BDD80C;
+		}
+
+		.nekit-social-share.official-color--on .box_net a {
+			background-color: #2509DB;
+		}
+
+		.nekit-social-share.official-color--on .buddymarks a {
+			background-color: #48a9c5;
+		}
+
+		.nekit-social-share.official-color--on .diary_ru a {
+			background-color: #56a0d3;
+		}
+
+		.nekit-social-share.official-color--on .draugiem a {
+			background-color: #ff6a00;
+		}
+
+		.nekit-social-share.official-color--on .fark a {
+			background-color: #7fbb00;
+		}
+
+		.nekit-social-share.official-color--on .fintel a {
+			background-color: #537b35;
+		}
+
+		.nekit-social-share.official-color--on .folkd a {
+			background-color: #b52e31;
+		}
+
+		.nekit-social-share.official-color--on .gentle_reader a {
+			background-color: #b3dcff;
+		}
+
+		.nekit-social-share.official-color--on .hatena a {
+			background-color: #5ecc62;
+		}
+
+		.nekit-social-share.official-color--on .kakao a {
+			background-color: #ffc20e;
+		}
+
+		.nekit-social-share.official-color--on .kik a {
+			background-color: #7fbb00;
+		}
+
+		.nekit-social-share.official-color--on .kindle_it a {
+			background-color: #0079c1;
+		}
+
+		.nekit-social-share.official-color--on .known a {
+			background-color: #629aa9;
+		}
+
+		.nekit-social-share.official-color--on .meneame a {
+			background-color: #ff7800;
+		}
+
+		.nekit-social-share.official-color--on .mixi a {
+			background-color: #aca095;
+		}
+
+		.nekit-social-share.official-color--on .myspace a {
+			background-color: #075aaa;
+		}
+
+		.nekit-social-share.official-color--on .netvouz a {
+			background-color: #00acee;
+		}
+
+		.nekit-social-share.official-color--on .newsvine a {
+			background-color: #2baf2b;
+		}
+
+		.nekit-social-share.official-color--on .nujij a {
+			background-color: #ce1126;
+		}
+
+		.nekit-social-share.official-color--on .odnoklassniki a {
+			background-color: #ff7800;
+		}
+
+		.nekit-social-share.official-color--on .outlook a {
+			background-color: #1769ff;
+		}
+
+		.nekit-social-share.official-color--on .papaly a {
+			background-color: #44c7f4;
+		}
+
+		.nekit-social-share.official-color--on .pinboard a {
+			background-color: #ff322e;
+		}
+
+		.nekit-social-share.official-color--on .printfriendly a {
+			background-color: #01cd74;
+		}
+
+		.nekit-social-share.official-color--on .protoge_bookmarks a {
+			background-color: #231f20;
+		}
+
+		.nekit-social-share.official-color--on .pusha a {
+			background-color: #146eb4;
+		}
+
+		.nekit-social-share.official-color--on .rediff_mypage a {
+			background-color: #b52e31;
+		}
+
+		.nekit-social-share.official-color--on .refind a {
+			background-color: #136ad5;
+		}
+
+		.nekit-social-share.official-color--on .segnalo a {
+			background-color: #fb8a2e;
+		}
+
+		.nekit-social-share.official-color--on .sitejot a {
+			background-color: #ed1b2e;
+		}
+
+		.nekit-social-share.official-color--on .slashdot a {
+			background-color: #00b2a9;
+		}
+
+		.nekit-social-share.official-color--on .stocktwits a {
+			background-color: #007fdb;
+		}
+
+		.nekit-social-share.official-color--on .stumpedia a {
+			background-color: #ffb310;
+		}
+
+		.nekit-social-share.official-color--on .svejo a {
+			background-color: #f90;
+		}
+
+		.nekit-social-share.official-color--on .trello a {
+			background-color: #026aa7;
+		}
+
+		.nekit-social-share.official-color--on .tuenti a {
+			background-color: #000;
+		}
+
+		.nekit-social-share.official-color--on .twiddla a {
+			background-color: #013ca6;
+		}
+
+		.nekit-social-share.official-color--on .typepod_post a {
+			background-color: #a0ac48;
+		}
+
+		.nekit-social-share.official-color--on .viadeo a {
+			background-color: #EE7356;
+		}
+
+		.nekit-social-share.official-color--on .wykop a {
+			background-color: #0091cd;
+		}
+
+		.nekit-social-share.official-color--on .yoolink a {
+			background-color: #007cc0;
+		}
+
+		.nekit-social-share.official-color--on .youmob a {
+			background-color: #fcd535;
+		}

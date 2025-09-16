@@ -1,0 +1,3666 @@
+[
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid One Free - 1",
+        "data_route": "/news-grid/news-grid-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-free-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid One Free - 2",
+        "data_route": "/news-grid/news-grid-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-free-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid One Free - 3",
+        "data_route": "/news-grid/news-grid-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-free-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid One Free - 4",
+        "data_route": "/news-grid/news-grid-one-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-free-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid One Free - 5",
+        "data_route": "/news-grid/news-grid-one-free-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-free-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-free-5.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 1",
+        "data_route": "/news-grid/news-grid-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 2",
+        "data_route": "/news-grid/news-grid-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 3",
+        "data_route": "/news-grid/news-grid-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 4",
+        "data_route": "/news-grid/news-grid-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 5",
+        "data_route": "/news-grid/news-grid-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-5.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 6",
+        "data_route": "/news-grid/news-grid-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-6.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro -7",
+        "data_route": "/news-grid/news-grid-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-7.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 8",
+        "data_route": "/news-grid/news-grid-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-8.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 9",
+        "data_route": "/news-grid/news-grid-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-9.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 10",
+        "data_route": "/news-grid/news-grid-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-10.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 11",
+        "data_route": "/news-grid/news-grid-one-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-11.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 12",
+        "data_route": "/news-grid/news-grid-one-pro-12.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-12",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-12.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 13",
+        "data_route": "/news-grid/news-grid-one-pro-13.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-13",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-13.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 14",
+        "data_route": "/news-grid/news-grid-one-pro-14.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-14",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-14.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid One Pro - 15",
+        "data_route": "/news-grid/news-grid-one-pro-15.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-one/#nekit-grid-one-pro-15",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-one-pro-15.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Two Free - 1",
+        "data_route": "/news-grid/news-grid-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-free-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Two Free - 2",
+        "data_route": "/news-grid/news-grid-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-free-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Two Free - 3",
+        "data_route": "/news-grid/news-grid-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-free-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Two Free - 4",
+        "data_route": "/news-grid/news-grid-two-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-free-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 1",
+        "data_route": "/news-grid/news-grid-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 2",
+        "data_route": "/news-grid/news-grid-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 3",
+        "data_route": "/news-grid/news-grid-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 4",
+        "data_route": "/news-grid/news-grid-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 5",
+        "data_route": "/news-grid/news-grid-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-5.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 6",
+        "data_route": "/news-grid/news-grid-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-6.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 7",
+        "data_route": "/news-grid/news-grid-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-7.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 8",
+        "data_route": "/news-grid/news-grid-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-8.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 9",
+        "data_route": "/news-grid/news-grid-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-9.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 10",
+        "data_route": "/news-grid/news-grid-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-10.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Two Pro - 11",
+        "data_route": "/news-grid/news-grid-two-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-two/#nekit-grid-two-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-two-pro-11.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Three Free - 1",
+        "data_route": "/news-grid/news-grid-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-free-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Three Free - 2",
+        "data_route": "/news-grid/news-grid-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-free-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Three Free - 3",
+        "data_route": "/news-grid/news-grid-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-free-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "free",
+        "name": "News Grid Three Free - 4",
+        "data_route": "/news-grid/news-grid-three-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-free-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 1",
+        "data_route": "/news-grid/news-grid-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-1.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 2",
+        "data_route": "/news-grid/news-grid-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-2.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 3",
+        "data_route": "/news-grid/news-grid-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-3.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 4",
+        "data_route": "/news-grid/news-grid-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-4.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 5",
+        "data_route": "/news-grid/news-grid-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-5.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 6",
+        "data_route": "/news-grid/news-grid-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-6.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 7",
+        "data_route": "/news-grid/news-grid-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-7.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 8",
+        "data_route": "/news-grid/news-grid-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-8.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 9",
+        "data_route": "/news-grid/news-grid-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-9.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 10",
+        "data_route": "/news-grid/news-grid-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-10.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 11",
+        "data_route": "/news-grid/news-grid-three-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-11.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 12",
+        "data_route": "/news-grid/news-grid-three-pro-12.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-12",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-12.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 13",
+        "data_route": "/news-grid/news-grid-three-pro-13.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-13",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-13.jpg"
+    },
+    {
+        "category": ["grid"],
+        "type": "pro",
+        "name": "News Grid Three Pro - 14",
+        "data_route": "/news-grid/news-grid-three-pro-14.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/grid-three/#nekit-grid-three-pro-14",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-grid/news-grid-three-pro-14.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List One Free - 1",
+        "data_route": "/news-list/news-list-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-free-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List One Free - 2",
+        "data_route": "/news-list/news-list-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-free-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List One Free - 3",
+        "data_route": "/news-list/news-list-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-free-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 1",
+        "data_route": "/news-list/news-list-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 2",
+        "data_route": "/news-list/news-list-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 3",
+        "data_route": "/news-list/news-list-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 4",
+        "data_route": "/news-list/news-list-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-4.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 5",
+        "data_route": "/news-list/news-list-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-5.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 6",
+        "data_route": "/news-list/news-list-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-6.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 7",
+        "data_route": "/news-list/news-list-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-7.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 8",
+        "data_route": "/news-list/news-list-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-8.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 9",
+        "data_route": "/news-list/news-list-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-9.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List One Pro - 10",
+        "data_route": "/news-list/news-list-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-one/#nekit-list-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-one-pro-10.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Two Free - 1",
+        "data_route": "/news-list/news-list-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-free-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Two Free - 2",
+        "data_route": "/news-list/news-list-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-free-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Two Free - 3",
+        "data_route": "/news-list/news-list-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-free-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 1",
+        "data_route": "/news-list/news-list-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 2",
+        "data_route": "/news-list/news-list-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 3",
+        "data_route": "/news-list/news-list-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 4",
+        "data_route": "/news-list/news-list-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-4.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 5",
+        "data_route": "/news-list/news-list-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-5.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 6",
+        "data_route": "/news-list/news-list-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-6.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 7",
+        "data_route": "/news-list/news-list-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-7.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 8",
+        "data_route": "/news-list/news-list-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-8.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 9",
+        "data_route": "/news-list/news-list-two-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-9.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 10",
+        "data_route": "/news-list/news-list-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-10.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Two Pro - 11",
+        "data_route": "/news-list/news-list-two-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-two/#nekit-list-two-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-two-pro-11.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Three Free - 1",
+        "data_route": "/news-list/news-list-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-free-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Three Free - 2",
+        "data_route": "/news-list/news-list-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-free-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "free",
+        "name": "News List Three Free - 3",
+        "data_route": "/news-list/news-list-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-free-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 1",
+        "data_route": "/news-list/news-list-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-1.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 2",
+        "data_route": "/news-list/news-list-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-2.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 3",
+        "data_route": "/news-list/news-list-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-3.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 4",
+        "data_route": "/news-list/news-list-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-4.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 5",
+        "data_route": "/news-list/news-list-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-5.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 6",
+        "data_route": "/news-list/news-list-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-6.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 7",
+        "data_route": "/news-list/news-list-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-7.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 8",
+        "data_route": "/news-list/news-list-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-8.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 9",
+        "data_route": "/news-list/news-list-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-9.jpg"
+    },
+    {
+        "category": ["list"],
+        "type": "pro",
+        "name": "News List Three Pro - 10",
+        "data_route": "/news-list/news-list-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/list-three/#nekit-list-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-list/news-list-three-pro-10.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block One Free - 1",
+        "data_route": "/news-block/news-block-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-free-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block One Free - 2",
+        "data_route": "/news-block/news-block-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-free-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block One Free - 3",
+        "data_route": "/news-block/news-block-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-free-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 1",
+        "data_route": "/news-block/news-block-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 2",
+        "data_route": "/news-block/news-block-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 3",
+        "data_route": "/news-block/news-block-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 4",
+        "data_route": "/news-block/news-block-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-4.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 5",
+        "data_route": "/news-block/news-block-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-5.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 6",
+        "data_route": "/news-block/news-block-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-6.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 7",
+        "data_route": "/news-block/news-block-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-7.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 8",
+        "data_route": "/news-block/news-block-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-8.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 9",
+        "data_route": "/news-block/news-block-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-9.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block One Pro - 10",
+        "data_route": "/news-block/news-block-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-one/#nekit-block-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-one-pro-10.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Two Free - 1",
+        "data_route": "/news-block/news-block-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-free-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Two Free - 2",
+        "data_route": "/news-block/news-block-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-free-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Two Free - 3",
+        "data_route": "/news-block/news-block-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-free-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 1",
+        "data_route": "/news-block/news-block-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 2",
+        "data_route": "/news-block/news-block-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 3",
+        "data_route": "/news-block/news-block-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 4",
+        "data_route": "/news-block/news-block-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-4.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 5",
+        "data_route": "/news-block/news-block-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-5.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 6",
+        "data_route": "/news-block/news-block-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-6.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 7",
+        "data_route": "/news-block/news-block-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-7.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 8",
+        "data_route": "/news-block/news-block-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-8.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 9",
+        "data_route": "/news-block/news-block-two-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-9.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Two Pro - 10",
+        "data_route": "/news-block/news-block-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-two/#nekit-block-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-two-pro-10.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Three Free - 1",
+        "data_route": "/news-block/news-block-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-free-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Three Free - 2",
+        "data_route": "/news-block/news-block-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-free-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Three Free - 3",
+        "data_route": "/news-block/news-block-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-free-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 1",
+        "data_route": "/news-block/news-block-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 2",
+        "data_route": "/news-block/news-block-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 3",
+        "data_route": "/news-block/news-block-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 4",
+        "data_route": "/news-block/news-block-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-4.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 5",
+        "data_route": "/news-block/news-block-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-5.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 6",
+        "data_route": "/news-block/news-block-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-6.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 7",
+        "data_route": "/news-block/news-block-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-7.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 8",
+        "data_route": "/news-block/news-block-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-8.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 9",
+        "data_route": "/news-block/news-block-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-9.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Three Pro - 10",
+        "data_route": "/news-block/news-block-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-three/#nekit-block-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-three-pro-10.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Four Free - 1",
+        "data_route": "/news-block/news-block-four-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-free-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Four Free - 2",
+        "data_route": "/news-block/news-block-four-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-free-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "free",
+        "name": "News Block Four Free - 3",
+        "data_route": "/news-block/news-block-four-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-free-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 1",
+        "data_route": "/news-block/news-block-four-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-1.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 2",
+        "data_route": "/news-block/news-block-four-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-2.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 3",
+        "data_route": "/news-block/news-block-four-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-3.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 4",
+        "data_route": "/news-block/news-block-four-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-4.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 5",
+        "data_route": "/news-block/news-block-four-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-5.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 6",
+        "data_route": "/news-block/news-block-four-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-6.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 7",
+        "data_route": "/news-block/news-block-four-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-7.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 8",
+        "data_route": "/news-block/news-block-four-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-8.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 9",
+        "data_route": "/news-block/news-block-four-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-9.jpg"
+    },
+    {
+        "category": ["block"],
+        "type": "pro",
+        "name": "News Block Four Pro - 10",
+        "data_route": "/news-block/news-block-four-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/block-four/#nekit-block-four-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-block/news-block-four-pro-10.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter One Free - 1",
+        "data_route": "/news-filter/news-filter-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-free-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter One Free - 2",
+        "data_route": "/news-filter/news-filter-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-free-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter One Free - 3",
+        "data_route": "/news-filter/news-filter-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-free-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 1",
+        "data_route": "/news-filter/news-filter-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 2",
+        "data_route": "/news-filter/news-filter-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 3",
+        "data_route": "/news-filter/news-filter-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 4",
+        "data_route": "/news-filter/news-filter-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-4.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 5",
+        "data_route": "/news-filter/news-filter-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-5.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 6",
+        "data_route": "/news-filter/news-filter-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-6.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 7",
+        "data_route": "/news-filter/news-filter-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-7.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 8",
+        "data_route": "/news-filter/news-filter-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-8.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 9",
+        "data_route": "/news-filter/news-filter-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-9.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter One Pro - 10",
+        "data_route": "/news-filter/news-filter-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-one/#nekit-filter-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-one-pro-10.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Two Free - 1",
+        "data_route": "/news-filter/news-filter-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-free-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Two Free - 2",
+        "data_route": "/news-filter/news-filter-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-free-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Two Free - 3",
+        "data_route": "/news-filter/news-filter-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-free-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 1",
+        "data_route": "/news-filter/news-filter-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 2",
+        "data_route": "/news-filter/news-filter-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 3",
+        "data_route": "/news-filter/news-filter-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 4",
+        "data_route": "/news-filter/news-filter-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-4.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 5",
+        "data_route": "/news-filter/news-filter-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-5.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 6",
+        "data_route": "/news-filter/news-filter-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-6.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 7",
+        "data_route": "/news-filter/news-filter-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-7.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 8",
+        "data_route": "/news-filter/news-filter-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-8.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 9",
+        "data_route": "/news-filter/news-filter-two-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-9.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Two Pro - 10",
+        "data_route": "/news-filter/news-filter-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-two/#nekit-filter-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-two-pro-10.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Three Free - 1",
+        "data_route": "/news-filter/news-filter-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-free-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Three Free - 2",
+        "data_route": "/news-filter/news-filter-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-free-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Three Free - 3",
+        "data_route": "/news-filter/news-filter-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-free-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 1",
+        "data_route": "/news-filter/news-filter-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 2",
+        "data_route": "/news-filter/news-filter-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 3",
+        "data_route": "/news-filter/news-filter-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 4",
+        "data_route": "/news-filter/news-filter-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-4.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 5",
+        "data_route": "/news-filter/news-filter-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-5.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 6",
+        "data_route": "/news-filter/news-filter-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-6.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 7",
+        "data_route": "/news-filter/news-filter-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-7.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 8",
+        "data_route": "/news-filter/news-filter-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-8.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 9",
+        "data_route": "/news-filter/news-filter-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-9.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Three Pro - 10",
+        "data_route": "/news-filter/news-filter-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-three/#nekit-filter-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-three-pro-10.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Four Free - 1",
+        "data_route": "/news-filter/news-filter-four-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-free-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Four Free - 2",
+        "data_route": "/news-filter/news-filter-four-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-free-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "free",
+        "name": "News Filter Four Free - 3",
+        "data_route": "/news-filter/news-filter-four-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-free-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 1",
+        "data_route": "/news-filter/news-filter-four-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-1.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 2",
+        "data_route": "/news-filter/news-filter-four-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-2.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 3",
+        "data_route": "/news-filter/news-filter-four-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-3.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 4",
+        "data_route": "/news-filter/news-filter-four-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-4.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 5",
+        "data_route": "/news-filter/news-filter-four-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-5.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 6",
+        "data_route": "/news-filter/news-filter-four-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-6.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 7",
+        "data_route": "/news-filter/news-filter-four-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-7.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 8",
+        "data_route": "/news-filter/news-filter-four-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-8.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 9",
+        "data_route": "/news-filter/news-filter-four-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-9.jpg"
+    },
+    {
+        "category": ["filter"],
+        "type": "pro",
+        "name": "News Filter Four Pro - 10",
+        "data_route": "/news-filter/news-filter-four-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/filter-four/#nekit-filter-four-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-filter/news-filter-four-pro-10.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel One Free - 1",
+        "data_route": "/news-carousel/news-carousel-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-free-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel One Free - 2",
+        "data_route": "/news-carousel/news-carousel-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-free-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel One Free - 3",
+        "data_route": "/news-carousel/news-carousel-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-free-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 1",
+        "data_route": "/news-carousel/news-carousel-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 2",
+        "data_route": "/news-carousel/news-carousel-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 3",
+        "data_route": "/news-carousel/news-carousel-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 4",
+        "data_route": "/news-carousel/news-carousel-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-4.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 5",
+        "data_route": "/news-carousel/news-carousel-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-5.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 6",
+        "data_route": "/news-carousel/news-carousel-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-6.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 7",
+        "data_route": "/news-carousel/news-carousel-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-7.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 8",
+        "data_route": "/news-carousel/news-carousel-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-8.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 9",
+        "data_route": "/news-carousel/news-carousel-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-9.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel One Pro - 10",
+        "data_route": "/news-carousel/news-carousel-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-one/#nekit-carousel-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-one-pro-10.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Two Free - 1",
+        "data_route": "/news-carousel/news-carousel-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-free-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Two Free - 2",
+        "data_route": "/news-carousel/news-carousel-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-free-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Two Free - 3",
+        "data_route": "/news-carousel/news-carousel-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-free-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 1",
+        "data_route": "/news-carousel/news-carousel-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 2",
+        "data_route": "/news-carousel/news-carousel-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 3",
+        "data_route": "/news-carousel/news-carousel-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 4",
+        "data_route": "/news-carousel/news-carousel-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-4.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 5",
+        "data_route": "/news-carousel/news-carousel-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-5.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 6",
+        "data_route": "/news-carousel/news-carousel-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-6.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 7",
+        "data_route": "/news-carousel/news-carousel-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-7.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 8",
+        "data_route": "/news-carousel/news-carousel-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-8.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 9",
+        "data_route": "/news-carousel/news-carousel-two-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-9.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Two Pro - 10",
+        "data_route": "/news-carousel/news-carousel-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-two/#nekit-carousel-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-two-pro-10.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Three Free - 1",
+        "data_route": "/news-carousel/news-carousel-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-free-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Three Free - 2",
+        "data_route": "/news-carousel/news-carousel-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-free-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "free",
+        "name": "News Carousel Three Free - 3",
+        "data_route": "/news-carousel/news-carousel-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-free-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 1",
+        "data_route": "/news-carousel/news-carousel-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-1.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 2",
+        "data_route": "/news-carousel/news-carousel-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-2.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 3",
+        "data_route": "/news-carousel/news-carousel-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-3.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 4",
+        "data_route": "/news-carousel/news-carousel-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-4.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 5",
+        "data_route": "/news-carousel/news-carousel-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-5.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 6",
+        "data_route": "/news-carousel/news-carousel-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-6.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 7",
+        "data_route": "/news-carousel/news-carousel-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-7.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 8",
+        "data_route": "/news-carousel/news-carousel-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-8.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 9",
+        "data_route": "/news-carousel/news-carousel-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-9.jpg"
+    },
+    {
+        "category": ["carousel"],
+        "type": "pro",
+        "name": "News Carousel Three Pro - 10",
+        "data_route": "/news-carousel/news-carousel-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/carousel-three/#nekit-carousel-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-carousel/news-carousel-three-pro-10.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner one Free - 1",
+        "data_route": "/banner/banner-one-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-free-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner one Free - 2",
+        "data_route": "/banner/banner-one-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-free-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner one Free - 3",
+        "data_route": "/banner/banner-one-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-free-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 1",
+        "data_route": "/banner/banner-one-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 2",
+        "data_route": "/banner/banner-one-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 3",
+        "data_route": "/banner/banner-one-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 4",
+        "data_route": "/banner/banner-one-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-4.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 5",
+        "data_route": "/banner/banner-one-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-5.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 6",
+        "data_route": "/banner/banner-one-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-6.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 7",
+        "data_route": "/banner/banner-one-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-7.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 8",
+        "data_route": "/banner/banner-one-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-8.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 9",
+        "data_route": "/banner/banner-one-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-9.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner one Pro - 10",
+        "data_route": "/banner/banner-one-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-one/#nekit-banner-one-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-one-pro-10.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Two Free - 1",
+        "data_route": "/banner/banner-two-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-free-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner two Free - 2",
+        "data_route": "/banner/banner-two-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-free-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner two Free - 3",
+        "data_route": "/banner/banner-two-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-free-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 1",
+        "data_route": "/banner/banner-two-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 2",
+        "data_route": "/banner/banner-two-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 3",
+        "data_route": "/banner/banner-two-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 4",
+        "data_route": "/banner/banner-two-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-4.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 5",
+        "data_route": "/banner/banner-two-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-5.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 6",
+        "data_route": "/banner/banner-two-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-6.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 7",
+        "data_route": "/banner/banner-two-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-7.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 8",
+        "data_route": "/banner/banner-two-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-8.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 9",
+        "data_route": "/banner/banner-two-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-9.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner two Pro - 10",
+        "data_route": "/banner/banner-two-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-two/#nekit-banner-two-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-two-pro-10.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Three Free - 1",
+        "data_route": "/banner/banner-three-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-free-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Three Free - 2",
+        "data_route": "/banner/banner-three-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-free-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Three Free - 3",
+        "data_route": "/banner/banner-three-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-free-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 1",
+        "data_route": "/banner/banner-three-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 2",
+        "data_route": "/banner/banner-three-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 3",
+        "data_route": "/banner/banner-three-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 4",
+        "data_route": "/banner/banner-three-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-4.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 5",
+        "data_route": "/banner/banner-three-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-5.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 6",
+        "data_route": "/banner/banner-three-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-6.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 7",
+        "data_route": "/banner/banner-three-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-7.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 8",
+        "data_route": "/banner/banner-three-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-8.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 9",
+        "data_route": "/banner/banner-three-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-9.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Three Pro - 10",
+        "data_route": "/banner/banner-three-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-three/#nekit-banner-three-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-three-pro-10.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Four Free - 1",
+        "data_route": "/banner/banner-four-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-free-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Four Free - 2",
+        "data_route": "/banner/banner-four-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-free-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Four Free - 3",
+        "data_route": "/banner/banner-four-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-free-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 1",
+        "data_route": "/banner/banner-four-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 2",
+        "data_route": "/banner/banner-four-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 3",
+        "data_route": "/banner/banner-four-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 4",
+        "data_route": "/banner/banner-four-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-4.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 5",
+        "data_route": "/banner/banner-four-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-5.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 6",
+        "data_route": "/banner/banner-four-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-6.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 7",
+        "data_route": "/banner/banner-four-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-7.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 8",
+        "data_route": "/banner/banner-four-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-8.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 9",
+        "data_route": "/banner/banner-four-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-9.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Four Pro - 10",
+        "data_route": "/banner/banner-four-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-four/#nekit-banner-four-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-four-pro-10.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Five Free - 1",
+        "data_route": "/banner/banner-five-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-free-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Five Free - 2",
+        "data_route": "/banner/banner-five-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-free-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "free",
+        "name": "News Banner Five Free - 3",
+        "data_route": "/banner/banner-five-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-free-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 1",
+        "data_route": "/banner/banner-five-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-1.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 2",
+        "data_route": "/banner/banner-five-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-2.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 3",
+        "data_route": "/banner/banner-five-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-3.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 4",
+        "data_route": "/banner/banner-five-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-4.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 5",
+        "data_route": "/banner/banner-five-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-5.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 6",
+        "data_route": "/banner/banner-five-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-6.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 7",
+        "data_route": "/banner/banner-five-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-7.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 8",
+        "data_route": "/banner/banner-five-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-8.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 9",
+        "data_route": "/banner/banner-five-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-9.jpg"
+    },
+    {
+        "category": ["banner"],
+        "type": "pro",
+        "name": "News Banner Five Pro - 10",
+        "data_route": "/banner/banner-five-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/banner-five/#nekit-banner-five-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/banner/banner-five-pro-10.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "free",
+        "name": "Full Width Banner Free - 1",
+        "data_route": "/full-width-banner/full-width-banner-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-free-1.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "free",
+        "name": "Full Width Banner Free - 2",
+        "data_route": "/full-width-banner/full-width-banner-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-free-2.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "free",
+        "name": "Full Width Banner Free - 3",
+        "data_route": "/full-width-banner/full-width-banner-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-free-3.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 1",
+        "data_route": "/full-width-banner/full-width-banner-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-1.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 2",
+        "data_route": "/full-width-banner/full-width-banner-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-2.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 3",
+        "data_route": "/full-width-banner/full-width-banner-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-3.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 4",
+        "data_route": "/full-width-banner/full-width-banner-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-4.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 5",
+        "data_route": "/full-width-banner/full-width-banner-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-5.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 6",
+        "data_route": "/full-width-banner/full-width-banner-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-6.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 7",
+        "data_route": "/full-width-banner/full-width-banner-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-7.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 8",
+        "data_route": "/full-width-banner/full-width-banner-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-8.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 9",
+        "data_route": "/full-width-banner/full-width-banner-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-9.jpg"
+    },
+    {
+        "category": ["full-width-banner"],
+        "type": "pro",
+        "name": "Full Width Banner Pro - 10",
+        "data_route": "/full-width-banner/full-width-banner-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/full-width-banner/#nekit-full-width-banner-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/full-width-banner/full-width-banner-pro-10.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "free",
+        "name": "Advanced Heading Free - 1",
+        "data_route": "/advanced-heading/advanced-heading-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-free-1.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "free",
+        "name": "Advanced Heading Free - 2",
+        "data_route": "/advanced-heading/advanced-heading-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-free-2.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "free",
+        "name": "Advanced Heading Free - 3",
+        "data_route": "/advanced-heading/advanced-heading-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-free-3.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "free",
+        "name": "Advanced Heading Free - 4",
+        "data_route": "/advanced-heading/advanced-heading-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-free-4.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "free",
+        "name": "Advanced Heading Free - 5",
+        "data_route": "/advanced-heading/advanced-heading-free-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-free-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-free-5.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 1",
+        "data_route": "/advanced-heading/advanced-heading-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-1.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 2",
+        "data_route": "/advanced-heading/advanced-heading-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-2.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 3",
+        "data_route": "/advanced-heading/advanced-heading-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-3.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 4",
+        "data_route": "/advanced-heading/advanced-heading-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-4.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 5",
+        "data_route": "/advanced-heading/advanced-heading-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-5.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 6",
+        "data_route": "/advanced-heading/advanced-heading-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-6.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 7",
+        "data_route": "/advanced-heading/advanced-heading-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-7.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 8",
+        "data_route": "/advanced-heading/advanced-heading-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-8.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 9",
+        "data_route": "/advanced-heading/advanced-heading-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-9.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 10",
+        "data_route": "/advanced-heading/advanced-heading-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-10.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 11",
+        "data_route": "/advanced-heading/advanced-heading-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-11.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 12",
+        "data_route": "/advanced-heading/advanced-heading-pro-12.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-12",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-12.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 13",
+        "data_route": "/advanced-heading/advanced-heading-pro-13.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-13",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-13.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 14",
+        "data_route": "/advanced-heading/advanced-heading-pro-14.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-14",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-14.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 15",
+        "data_route": "/advanced-heading/advanced-heading-pro-15.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-15",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-15.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 16",
+        "data_route": "/advanced-heading/advanced-heading-pro-16.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-16",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-16.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 17",
+        "data_route": "/advanced-heading/advanced-heading-pro-17.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-17",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-17.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 18",
+        "data_route": "/advanced-heading/advanced-heading-pro-18.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-18",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-18.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 19",
+        "data_route": "/advanced-heading/advanced-heading-pro-19.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-19",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-19.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 20",
+        "data_route": "/advanced-heading/advanced-heading-pro-20.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-20",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-20.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 21",
+        "data_route": "/advanced-heading/advanced-heading-pro-21.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-21",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-21.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 22",
+        "data_route": "/advanced-heading/advanced-heading-pro-22.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-22",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-22.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 23",
+        "data_route": "/advanced-heading/advanced-heading-pro-23.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-23",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-23.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 24",
+        "data_route": "/advanced-heading/advanced-heading-pro-24.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-24",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-24.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 25",
+        "data_route": "/advanced-heading/advanced-heading-pro-25.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-25",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-25.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 26",
+        "data_route": "/advanced-heading/advanced-heading-pro-26.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-26",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-26.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 27",
+        "data_route": "/advanced-heading/advanced-heading-pro-27.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-27",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-27.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 28",
+        "data_route": "/advanced-heading/advanced-heading-pro-28.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-28",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-28.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 29",
+        "data_route": "/advanced-heading/advanced-heading-pro-29.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-29",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-29.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 30",
+        "data_route": "/advanced-heading/advanced-heading-pro-30.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-30",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-30.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 31",
+        "data_route": "/advanced-heading/advanced-heading-pro-31.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-31",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-31.jpg"
+    },
+    {
+        "category": ["advanced-heading"],
+        "type": "pro",
+        "name": "Advanced Heading Pro - 32",
+        "data_route": "/advanced-heading/advanced-heading-pro-32.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/advanced-heading/#nekit-advanced-heading-pro-32",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/advanced-heading/advanced-heading-pro-32.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "free",
+        "name": "Popular Opinion Free - 1",
+        "data_route": "/popular-opinion/popular-opinion-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-free-1.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "free",
+        "name": "Popular Opinion Free - 2",
+        "data_route": "/popular-opinion/popular-opinion-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-free-2.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "free",
+        "name": "Popular Opinion Free - 3",
+        "data_route": "/popular-opinion/popular-opinion-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-free-3.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 1",
+        "data_route": "/popular-opinion/popular-opinion-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-1.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 2",
+        "data_route": "/popular-opinion/popular-opinion-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-2.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 3",
+        "data_route": "/popular-opinion/popular-opinion-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-3.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 4",
+        "data_route": "/popular-opinion/popular-opinion-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-4.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 5",
+        "data_route": "/popular-opinion/popular-opinion-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-5.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 6",
+        "data_route": "/popular-opinion/popular-opinion-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-6.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 7",
+        "data_route": "/popular-opinion/popular-opinion-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-7.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 8",
+        "data_route": "/popular-opinion/popular-opinion-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-8.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 9",
+        "data_route": "/popular-opinion/popular-opinion-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-9.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 10",
+        "data_route": "/popular-opinion/popular-opinion-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-10.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 11",
+        "data_route": "/popular-opinion/popular-opinion-pro-11.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-11",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-11.jpg"
+    },
+    {
+        "category": ["popular-opinion"],
+        "type": "pro",
+        "name": "Popular Opinion Pro - 12",
+        "data_route": "/popular-opinion/popular-opinion-pro-12.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/popular-opinion/#nekit-popular-opinion-pro-12",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/popular-opinion/popular-opinion-pro-12.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 1",
+        "data_route": "/tags-cloud/tags-cloud-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-1.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 2",
+        "data_route": "/tags-cloud/tags-cloud-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-2.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 3",
+        "data_route": "/tags-cloud/tags-cloud-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-3.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 4",
+        "data_route": "/tags-cloud/tags-cloud-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-4.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 5",
+        "data_route": "/tags-cloud/tags-cloud-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-5.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 6",
+        "data_route": "/tags-cloud/tags-cloud-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-6.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 7",
+        "data_route": "/tags-cloud/tags-cloud-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-7.jpg"
+    },
+    {
+        "category": ["tags-cloud"],
+        "type": "pro",
+        "name": "Tags Cloud Pro - 8",
+        "data_route": "/tags-cloud/tags-cloud-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud/#nekit-tags-cloud-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud/tags-cloud-pro-8.jpg"
+    },
+    {
+        "category": ["tags-cloud-animation"],
+        "type": "pro",
+        "name": "Tags Cloud Animation Pro - 1",
+        "data_route": "/tags-cloud-animation/tags-cloud-animation-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud-animation/#nekit-tags-cloud-animation-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud-animation/tags-cloud-animation-pro-1.jpg"
+    },
+    {
+        "category": ["tags-cloud-animation"],
+        "type": "pro",
+        "name": "Tags Cloud Animation Pro - 2",
+        "data_route": "/tags-cloud-animation/tags-cloud-animation-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud-animation/#nekit-tags-cloud-animation-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud-animation/tags-cloud-animation-pro-2.jpg"
+    },
+    {
+        "category": ["tags-cloud-animation"],
+        "type": "pro",
+        "name": "Tags Cloud Animation Pro - 3",
+        "data_route": "/tags-cloud-animation/tags-cloud-animation-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/tag-cloud-animation/#nekit-tags-cloud-animation-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/tags-cloud-animation/tags-cloud-animation-pro-3.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "free",
+        "name": "Live Now Button Free - 1",
+        "data_route": "/live-now-button/live-now-button-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-free-1.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "free",
+        "name": "Live Now Button Free - 2",
+        "data_route": "/live-now-button/live-now-button-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-free-2.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 1",
+        "data_route": "/live-now-button/live-now-button-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-1.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 2",
+        "data_route": "/live-now-button/live-now-button-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-2.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 3",
+        "data_route": "/live-now-button/live-now-button-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-3.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 4",
+        "data_route": "/live-now-button/live-now-button-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-4.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 5",
+        "data_route": "/live-now-button/live-now-button-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-5.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 6",
+        "data_route": "/live-now-button/live-now-button-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-6.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 7",
+        "data_route": "/live-now-button/live-now-button-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-7.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 8",
+        "data_route": "/live-now-button/live-now-button-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-8.jpg"
+    },
+    {
+        "category": ["live-now-button"],
+        "type": "pro",
+        "name": "Live Now Button Pro - 9",
+        "data_route": "/live-now-button/live-now-button-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-now-button/#nekit-live-now-button-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-now-button/live-now-button-pro-9.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "free",
+        "name": "News Ticker Free - 1",
+        "data_route": "/news-ticker/news-ticker-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-free-1.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "free",
+        "name": "News Ticker Free - 2",
+        "data_route": "/news-ticker/news-ticker-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-free-2.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "free",
+        "name": "News Ticker Free - 3",
+        "data_route": "/news-ticker/news-ticker-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-free-3.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 1",
+        "data_route": "/news-ticker/news-ticker-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-1.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 2",
+        "data_route": "/news-ticker/news-ticker-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-2.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 3",
+        "data_route": "/news-ticker/news-ticker-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-3.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 4",
+        "data_route": "/news-ticker/news-ticker-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-4.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 5",
+        "data_route": "/news-ticker/news-ticker-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-5.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 6",
+        "data_route": "/news-ticker/news-ticker-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-6.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 7",
+        "data_route": "/news-ticker/news-ticker-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-7.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 8",
+        "data_route": "/news-ticker/news-ticker-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-8.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 9",
+        "data_route": "/news-ticker/news-ticker-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-9.jpg"
+    },
+    {
+        "category": ["news-ticker"],
+        "type": "pro",
+        "name": "News Ticker Pro - 10",
+        "data_route": "/news-ticker/news-ticker-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker/#nekit-news-ticker-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker/news-ticker-pro-10.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "free",
+        "name": "News Ticker Marquee Free - 1",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-free-1.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "free",
+        "name": "News Ticker Marquee Free - 2",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-free-2.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "free",
+        "name": "News Ticker Marquee Free - 3",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-free-3.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "free",
+        "name": "News Ticker Marquee Free - 4",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-free-4.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 1",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-1.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 2",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-2.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 3",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-3.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 4",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-4.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 5",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-5.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 6",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-6.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 7",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-7.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 8",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-8.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 9",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-9.jpg"
+    },
+    {
+        "category": ["news-ticker-marquee"],
+        "type": "pro",
+        "name": "News Ticker Marquee Pro - 10",
+        "data_route": "/news-ticker-marquee/news-ticker-marquee-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-ticker-marquee/#nekit-news-ticker-marquee-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-ticker-marquee/news-ticker-marquee-pro-10.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 1",
+        "data_route": "/news-timeline/news-timeline-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-1.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 2",
+        "data_route": "/news-timeline/news-timeline-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-2.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 3",
+        "data_route": "/news-timeline/news-timeline-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-3.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 4",
+        "data_route": "/news-timeline/news-timeline-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-4.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 5",
+        "data_route": "/news-timeline/news-timeline-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-5.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 6",
+        "data_route": "/news-timeline/news-timeline-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-6.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 7",
+        "data_route": "/news-timeline/news-timeline-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-7.jpg"
+    },
+    {
+        "category": ["news-timeline"],
+        "type": "pro",
+        "name": "News Timeline Pro - 8",
+        "data_route": "/news-timeline/news-timeline-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/news-timeline/#nekit-news-timeline-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/news-timeline/news-timeline-pro-8.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "free",
+        "name": "Categories Collection Free - 1",
+        "data_route": "/categories-collection/categories-collection-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-free-1.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "free",
+        "name": "Categories Collection Free - 2",
+        "data_route": "/categories-collection/categories-collection-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-free-2.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "free",
+        "name": "Categories Collection Free - 3",
+        "data_route": "/categories-collection/categories-collection-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-free-3.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "free",
+        "name": "Categories Collection Free - 4",
+        "data_route": "/categories-collection/categories-collection-free-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-free-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-free-4.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 1",
+        "data_route": "/categories-collection/categories-collection-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-1.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 2",
+        "data_route": "/categories-collection/categories-collection-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-2.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 3",
+        "data_route": "/categories-collection/categories-collection-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-3.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 4",
+        "data_route": "/categories-collection/categories-collection-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-4.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 5",
+        "data_route": "/categories-collection/categories-collection-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-5.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 6",
+        "data_route": "/categories-collection/categories-collection-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-6.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 7",
+        "data_route": "/categories-collection/categories-collection-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-7.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 8",
+        "data_route": "/categories-collection/categories-collection-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-8.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 9",
+        "data_route": "/categories-collection/categories-collection-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-9.jpg"
+    },
+    {
+        "category": ["categories-collection"],
+        "type": "pro",
+        "name": "Categories Collection Pro - 10",
+        "data_route": "/categories-collection/categories-collection-pro-10.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/categories-collection/#nekit-categories-collection-pro-10",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/categories-collection/categories-collection-pro-10.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 1",
+        "data_route": "/video-playlist/video-playlist-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-1.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 2",
+        "data_route": "/video-playlist/video-playlist-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-2.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 3",
+        "data_route": "/video-playlist/video-playlist-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-3.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 4",
+        "data_route": "/video-playlist/video-playlist-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-4.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 5",
+        "data_route": "/video-playlist/video-playlist-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-5.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 6",
+        "data_route": "/video-playlist/video-playlist-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-6.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 7",
+        "data_route": "/video-playlist/video-playlist-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-7.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 8",
+        "data_route": "/video-playlist/video-playlist-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-8.jpg"
+    },
+    {
+        "category": ["video-playlist"],
+        "type": "pro",
+        "name": "Video Playlist Pro - 9",
+        "data_route": "/video-playlist/video-playlist-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/video-playlist/#nekit-video-playlist-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/video-playlist/video-playlist-pro-9.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "free",
+        "name": "Live Search Free - 1",
+        "data_route": "/live-search/live-search-free-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-free-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-free-1.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "free",
+        "name": "Live Search Free - 2",
+        "data_route": "/live-search/live-search-free-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-free-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-free-2.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "free",
+        "name": "Live Search Free - 3",
+        "data_route": "/live-search/live-search-free-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-free-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-free-3.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 1",
+        "data_route": "/live-search/live-search-pro-1.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-1",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-1.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 2",
+        "data_route": "/live-search/live-search-pro-2.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-2",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-2.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 3",
+        "data_route": "/live-search/live-search-pro-3.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-3",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-3.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 4",
+        "data_route": "/live-search/live-search-pro-4.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-4",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-4.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 5",
+        "data_route": "/live-search/live-search-pro-5.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-5",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-5.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 6",
+        "data_route": "/live-search/live-search-pro-6.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-6",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-6.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 7",
+        "data_route": "/live-search/live-search-pro-7.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-7",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-7.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 8",
+        "data_route": "/live-search/live-search-pro-8.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-8",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-8.jpg"
+    },
+    {
+        "category": ["live-search"],
+        "type": "pro",
+        "name": "Live Search Pro - 9",
+        "data_route": "/live-search/live-search-pro-9.json",
+        "preview_url": "https://prev.blazethemes.com/news-elementor/live-search/#nekit-live-search-pro-9",
+        "preview_image": "https://prev.blazethemes.com/demo-data/news-kit-elementor-addons/widgets/live-search/live-search-pro-9.jpg"
+    }
+]

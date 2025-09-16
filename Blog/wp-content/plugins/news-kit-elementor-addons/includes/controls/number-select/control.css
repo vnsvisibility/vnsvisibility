@@ -1,0 +1,25 @@
+.elementor-control-type-nekit-number-select-control .elementor-control-field {
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.elementor-control-type-nekit-number-select-control .elementor-control-title {
+    margin-bottom: 10px;
+}
+
+.elementor-control-type-nekit-number-select-control .control-content-wrapper {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+
+.elementor-control-type-nekit-number-select-control .control-content-wrapper input.nekit-input-field {
+    flex: 30%;
+}
+
+.elementor-control-type-nekit-number-select-control .control-content-wrapper input.nekit-input-field.is-hidden {
+    display: none;
+}
+
+.elementor-control-type-nekit-number-select-control .control-content-wrapper select.nekit-input-field {}

@@ -1,0 +1,89 @@
+/* *
+* Responsive
+*/
+
+
+/* 1025 */
+    @media (max-width: 1025px) {
+        body.elementor-page.left-both-sidebar #theme-content .primary-content,
+        body.elementor-page.right-both-sidebar #theme-content .primary-content {
+            max-width: 100%;
+        }
+
+        /* live search */
+            body .popup-layout--two .nekit-search-form-wrap .article-item .post-thumb-wrap,
+            body .popup-layout--three .nekit-search-form-wrap .article-item .post-thumb-wrap {
+                flex: 0 1 20%;
+            }
+
+        /* News List */
+            .nekit_news_list_wrap .news-list-post-wrap.column--three,
+            .nekit_news_grid_wrap.news-grid .news-grid-post-wrap {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+        /* Popular Opinion */
+            .elementor-widget-popular_opinions .popular-opinions-wrap {
+                grid-template-columns: repeat(3, 1fr);
+            }
+
+        /* Video PlayList */
+            .nekit-video-playlist-wrap.widget-layout--one {
+                flex-direction: column;
+            }
+    }
+
+/* 940 */
+    @media (max-width: 940px) {
+        /* News list */
+            .nekit_news_list_wrap.news-list .news-list-post-wrap {
+                grid-template-columns: 1fr;
+            }
+
+        /* Popular Opinion */
+            .elementor-widget-popular_opinions .popular-opinions-wrap {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+    }
+
+/* 768 */
+    @media (max-width: 768px) {
+        .popup-layout--three .nekit-search-form-wrap form {
+            width: 90%;
+        }
+
+        .popup-layout--three .nekit-search-form-wrap .search-results-wrap,
+        .popup-layout--two .nekit-search-form-wrap form label {
+            width: 67%;
+        }
+
+        .popup-layout--two .nekit-search-form-wrap .search-results-wrap {
+            width: 90%;
+        }
+    }
+
+/* 610 */
+    @media (max-width: 610px) {
+        .popup-layout--three .nekit-search-form-wrap .search-results-wrap {
+            width: 90%;
+        }
+
+        .elementor-page .width-full-width--layout .news-elementor-container {
+            margin: 0;
+        }
+
+        .elementor-page .post-thumb-wrap {
+            width: 100%;
+        }
+
+        /* News Grid */
+            .nekit_news_grid_wrap.news-grid .news-grid-post-wrap {
+                grid-template-columns: 1fr;
+            }
+
+        /* Popular Opinion */
+            .elementor-widget-popular_opinions .popular-opinions-wrap {
+                grid-template-columns: 1fr;
+            }
+    }

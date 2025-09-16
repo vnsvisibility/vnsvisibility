@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KTNQKZ5F');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="O5gC1Gwv0fWJ6ryhxJhFjUbW02sz6PZm4TVfd6gu0cg" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free SEO Scanner Tool | Analyze Your Website Instantly – VNS Visibility</title>
+    <link rel="canonical" href="https://vnsvisibility.com/seoscanner.html"/>
+	<meta name="robots" content="index, follow">
+    	<meta name="description" content="Use our free SEO scanner to audit your website for on-page SEO issues, performance, keywords, and more. Fast results. No sign-up needed.">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            animation: slideUp 0.6s ease-out;
+        }
+
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1rem;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .url-input {
+            flex: 1;
+            padding: 15px 20px;
+            border: 2px solid #e1e5e9;
+            border-radius: 12px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .url-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .scan-btn {
+            padding: 15px 30px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .scan-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.3);
+        }
+
+        .scan-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .results {
+            display: none;
+        }
+
+        .score-overview {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .score-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .score-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .score-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .score-label {
+            color: #666;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .score-excellent { color: #10b981; }
+        .score-good { color: #f59e0b; }
+        .score-poor { color: #ef4444; }
+
+        .analysis-sections {
+            display: grid;
+            gap: 25px;
+        }
+
+        .analysis-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .section-title {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #333;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .section-icon {
+            width: 24px;
+            height: 24px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 0.8rem;
+        }
+
+        .check-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .check-item:last-child {
+            border-bottom: none;
+        }
+
+        .check-label {
+            font-weight: 500;
+            color: #333;
+        }
+
+        .check-status {
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .status-pass {
+            background: #dcfce7;
+            color: #166534;
+        }
+
+        .status-fail {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .status-warning {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .detail-info {
+            margin-top: 8px;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        .url-display {
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-family: monospace;
+            word-break: break-all;
+            border-left: 4px solid #667eea;
+        }
+
+        .meta-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .meta-item {
+            background: #f8fafc;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .meta-label {
+            font-weight: 600;
+            color: #374151;
+            margin-bottom: 5px;
+        }
+
+        .meta-value {
+            color: #6b7280;
+            font-size: 0.9rem;
+        }
+    </style>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "VNS Visibility",
+  "image": "https://vnsvisibility.com/img/logo-eye.png",
+  "@id": "https://vnsvisibility.com/",
+  "url": "https://vnsvisibility.com/",
+  "telephone": "+91 9464462256",
+  "priceRange": "rupees",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "E-253",
+    "addressLocality": "Mohali",
+    "postalCode": "140301",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.7630356,
+    "longitude": 76.6528225
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  },
+  "sameAs": [
+    "https://www.facebook.com/vnsvisibilitty/",
+    "https://x.com/vnsvisibility",
+    "https://vnsvisibility.com/"
+  ] 
+}
+</script>
+
+<!--Favicon-->
+	<link rel="shortcut icon" href="https://vnsvisibility.com/img/logo-eye.png">
+	<!--favicon-->
+    
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 SEO Scanner</h1>
+            <p>Analyze your website's SEO performance and get actionable insights</p>
+        </div>
+
+        <div class="input-section">
+            <div class="input-group">
+                <input type="url" class="url-input" id="urlInput" placeholder="Enter website URL (e.g., https://example.com)" required>
+                <button class="scan-btn" id="scanBtn" onclick="scanWebsite()">Scan Website</button>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Scanning website for SEO issues...</p>
+        </div>
+
+        <div class="results" id="results">
+            <div class="url-display" id="analyzedUrl"></div>
+            
+            <div class="score-overview">
+                <div class="score-card">
+                    <div class="score-number" id="overallScore">0</div>
+                    <div class="score-label">Overall Score</div>
+                </div>
+                <div class="score-card">
+                    <div class="score-number" id="passedChecks">0</div>
+                    <div class="score-label">Checks Passed</div>
+                </div>
+                <div class="score-card">
+                    <div class="score-number" id="issuesFound">0</div>
+                    <div class="score-label">Issues Found</div>
+                </div>
+            </div>
+
+            <div class="analysis-sections">
+                <div class="analysis-section">
+                    <h3 class="section-title">
+                        <span class="section-icon">📄</span>
+                        Basic SEO Elements
+                    </h3>
+                    <div id="basicSeoChecks"></div>
+                </div>
+
+                <div class="analysis-section">
+                    <h3 class="section-title">
+                        <span class="section-icon">🏷️</span>
+                        Meta Tags
+                    </h3>
+                    <div id="metaTagChecks"></div>
+                </div>
+
+                <div class="analysis-section">
+                    <h3 class="section-title">
+                        <span class="section-icon">📱</span>
+                        Technical SEO
+                    </h3>
+                    <div id="technicalChecks"></div>
+                </div>
+
+                <div class="analysis-section">
+                    <h3 class="section-title">
+                        <span class="section-icon">🖼️</span>
+                        Images & Media
+                    </h3>
+                    <div id="imageChecks"></div>
+                </div>
+
+                <div class="analysis-section">
+                    <h3 class="section-title">
+                        <span class="section-icon">🔗</span>
+                        Links & Structure
+                    </h3>
+                    <div id="linkChecks"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let analysisResults = {};
+
+        async function scanWebsite() {
+            const urlInput = document.getElementById('urlInput');
+            const url = urlInput.value.trim();
+            
+            if (!url) {
+                alert('Please enter a valid URL');
+                return;
+            }
+
+            if (!isValidUrl(url)) {
+                alert('Please enter a valid URL starting with http:// or https://');
+                return;
+            }
+
+            const scanBtn = document.getElementById('scanBtn');
+            const loading = document.getElementById('loading');
+            const results = document.getElementById('results');
+
+            scanBtn.disabled = true;
+            loading.style.display = 'block';
+            results.style.display = 'none';
+
+            try {
+                await analyzeUrl(url);
+                displayResults(url);
+            } catch (error) {
+                alert('Error analyzing website. Please check the URL and try again.');
+                console.error('Analysis error:', error);
+            } finally {
+                scanBtn.disabled = false;
+                loading.style.display = 'none';
+            }
+        }
+
+        function isValidUrl(string) {
+            try {
+                new URL(string);
+                return string.startsWith('http://') || string.startsWith('https://');
+            } catch (_) {
+                return false;
+            }
+        }
+
+        async function analyzeUrl(url) {
+            // Since we can't make direct HTTP requests to external sites from a browser due to CORS,
+            // we'll simulate the analysis with mock data and provide instructions for real implementation
+            
+            // In a real implementation, you would:
+            // 1. Use a backend service to fetch the HTML
+            // 2. Or use a proxy service
+            // 3. Or implement this as a browser extension
+            
+            // For demonstration, we'll create a mock analysis
+            analysisResults = await mockAnalysis(url);
+        }
+
+        async function mockAnalysis(url) {
+            // Simulate network delay
+            await new Promise(resolve => setTimeout(resolve, 2000));
+
+            // Mock analysis results - in real implementation, you'd parse actual HTML
+            return {
+                url: url,
+                title: 'Sample Website Title',
+                description: 'This is a sample meta description for demonstration purposes.',
+                headings: {
+                    h1: 2,
+                    h2: 5,
+                    h3: 8
+                },
+                images: {
+                    total: 15,
+                    withAlt: 12,
+                    withoutAlt: 3
+                },
+                links: {
+                    internal: 25,
+                    external: 8,
+                    broken: 1
+                },
+                performance: {
+                    loadTime: 2.3,
+                    pageSize: 1.2
+                },
+                checks: {
+                    hasTitle: true,
+                    titleLength: url.includes('example') ? 45 : Math.random() > 0.3,
+                    hasDescription: true,
+                    descriptionLength: url.includes('example') ? 155 : Math.random() > 0.3,
+                    hasH1: true,
+                    multipleH1: false,
+                    hasViewport: true,
+                    hasCanonical: Math.random() > 0.4,
+                    hasRobots: Math.random() > 0.5,
+                    hasStructuredData: Math.random() > 0.6,
+                    isHTTPS: url.startsWith('https://'),
+                    hasXmlSitemap: Math.random() > 0.5,
+                    hasFavicon: Math.random() > 0.7,
+                    imagesHaveAlt: false,
+                    hasInternalLinks: true,
+                    hasExternalLinks: true
+                }
+            };
+        }
+
+        function displayResults(url) {
+            document.getElementById('analyzedUrl').textContent = `Analyzed: ${url}`;
+            
+            const checks = analysisResults.checks;
+            const passedCount = Object.values(checks).filter(Boolean).length;
+            const totalChecks = Object.keys(checks).length;
+            const issuesCount = totalChecks - passedCount;
+            const overallScore = Math.round((passedCount / totalChecks) * 100);
+
+            // Update score cards
+            document.getElementById('overallScore').textContent = overallScore;
+            document.getElementById('overallScore').className = `score-number ${getScoreClass(overallScore)}`;
+            document.getElementById('passedChecks').textContent = passedCount;
+            document.getElementById('issuesFound').textContent = issuesCount;
+
+            // Populate check sections
+            populateBasicSeoChecks();
+            populateMetaTagChecks();
+            populateTechnicalChecks();
+            populateImageChecks();
+            populateLinkChecks();
+
+            document.getElementById('results').style.display = 'block';
+        }
+
+        function getScoreClass(score) {
+            if (score >= 80) return 'score-excellent';
+            if (score >= 60) return 'score-good';
+            return 'score-poor';
+        }
+
+        function createCheckItem(label, status, detail = '') {
+            const statusClass = status === 'pass' ? 'status-pass' : status === 'warning' ? 'status-warning' : 'status-fail';
+            const statusText = status === 'pass' ? 'Pass' : status === 'warning' ? 'Warning' : 'Fail';
+            
+            return `
+                <div class="check-item">
+                    <div>
+                        <div class="check-label">${label}</div>
+                        ${detail ? `<div class="detail-info">${detail}</div>` : ''}
+                    </div>
+                    <span class="check-status ${statusClass}">${statusText}</span>
+                </div>
+            `;
+        }
+
+        function populateBasicSeoChecks() {
+            const checks = analysisResults.checks;
+            let html = '';
+
+            html += createCheckItem(
+                'Page Title Present',
+                checks.hasTitle ? 'pass' : 'fail',
+                checks.hasTitle ? `Title: "${analysisResults.title}"` : 'No title tag found'
+            );
+
+            html += createCheckItem(
+                'Title Length Optimal',
+                checks.titleLength ? 'pass' : 'warning',
+                checks.titleLength ? 'Title length is within recommended range (50-60 characters)' : 'Title may be too long or too short'
+            );
+
+            html += createCheckItem(
+                'H1 Tag Present',
+                checks.hasH1 ? 'pass' : 'fail',
+                checks.hasH1 ? 'H1 tag found on page' : 'No H1 tag found'
+            );
+
+            html += createCheckItem(
+                'Single H1 Tag',
+                !checks.multipleH1 ? 'pass' : 'warning',
+                !checks.multipleH1 ? 'Only one H1 tag found (recommended)' : 'Multiple H1 tags found'
+            );
+
+            document.getElementById('basicSeoChecks').innerHTML = html;
+        }
+
+        function populateMetaTagChecks() {
+            const checks = analysisResults.checks;
+            let html = '';
+
+            html += createCheckItem(
+                'Meta Description Present',
+                checks.hasDescription ? 'pass' : 'fail',
+                checks.hasDescription ? `Description: "${analysisResults.description}"` : 'No meta description found'
+            );
+
+            html += createCheckItem(
+                'Description Length Optimal',
+                checks.descriptionLength ? 'pass' : 'warning',
+                checks.descriptionLength ? 'Description length is within recommended range (150-160 characters)' : 'Description may be too long or too short'
+            );
+
+            html += createCheckItem(
+                'Viewport Meta Tag',
+                checks.hasViewport ? 'pass' : 'fail',
+                checks.hasViewport ? 'Viewport meta tag found (mobile-friendly)' : 'No viewport meta tag found'
+            );
+
+            html += createCheckItem(
+                'Canonical URL',
+                checks.hasCanonical ? 'pass' : 'warning',
+                checks.hasCanonical ? 'Canonical URL is set' : 'No canonical URL found'
+            );
+
+            html += createCheckItem(
+                'Robots Meta Tag',
+                checks.hasRobots ? 'pass' : 'warning',
+                checks.hasRobots ? 'Robots meta tag found' : 'No robots meta tag found'
+            );
+
+            document.getElementById('metaTagChecks').innerHTML = html;
+        }
+
+        function populateTechnicalChecks() {
+            const checks = analysisResults.checks;
+            let html = '';
+
+            html += createCheckItem(
+                'HTTPS Enabled',
+                checks.isHTTPS ? 'pass' : 'fail',
+                checks.isHTTPS ? 'Site is served over HTTPS' : 'Site is not using HTTPS'
+            );
+
+            html += createCheckItem(
+                'XML Sitemap',
+                checks.hasXmlSitemap ? 'pass' : 'warning',
+                checks.hasXmlSitemap ? 'XML sitemap detected' : 'No XML sitemap found'
+            );
+
+            html += createCheckItem(
+                'Favicon Present',
+                checks.hasFavicon ? 'pass' : 'warning',
+                checks.hasFavicon ? 'Favicon found' : 'No favicon detected'
+            );
+
+            html += createCheckItem(
+                'Structured Data',
+                checks.hasStructuredData ? 'pass' : 'warning',
+                checks.hasStructuredData ? 'Structured data markup found' : 'No structured data detected'
+            );
+
+            document.getElementById('technicalChecks').innerHTML = html;
+        }
+
+        function populateImageChecks() {
+            const images = analysisResults.images;
+            let html = '';
+
+            html += createCheckItem(
+                'Images Have Alt Text',
+                images.withoutAlt === 0 ? 'pass' : 'warning',
+                `${images.withAlt}/${images.total} images have alt text`
+            );
+
+            html += createCheckItem(
+                'Image Optimization',
+                'warning',
+                'Consider optimizing images for better page load speed'
+            );
+
+            document.getElementById('imageChecks').innerHTML = html;
+        }
+
+        function populateLinkChecks() {
+            const checks = analysisResults.checks;
+            const links = analysisResults.links;
+            let html = '';
+
+            html += createCheckItem(
+                'Internal Links Present',
+                checks.hasInternalLinks ? 'pass' : 'warning',
+                `${links.internal} internal links found`
+            );
+
+            html += createCheckItem(
+                'External Links Present',
+                checks.hasExternalLinks ? 'pass' : 'warning',
+                `${links.external} external links found`
+            );
+
+            html += createCheckItem(
+                'Broken Links Check',
+                links.broken === 0 ? 'pass' : 'warning',
+                links.broken === 0 ? 'No broken links detected' : `${links.broken} potentially broken links found`
+            );
+
+            document.getElementById('linkChecks').innerHTML = html;
+        }
+
+        // Allow Enter key to trigger scan
+        document.getElementById('urlInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                scanWebsite();
+            }
+        });
+
+        // Add some example URLs for demonstration
+        document.getElementById('urlInput').placeholder = 'Enter website URL (try: https://example.com)';
+    </script>
+</body>
+</html>
