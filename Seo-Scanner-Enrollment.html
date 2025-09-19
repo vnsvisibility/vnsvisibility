@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Free SEO Scanner Tool | Analyze Your Website Instantly – VNS Visibility</title>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.95);
+      border-radius: 20px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+      padding: 40px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .form-group {
+      margin-bottom: 15px;
+    }
+
+    label {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 5px;
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      font-size: 1rem;
+    }
+
+    button {
+      padding: 12px 20px;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      color: white;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      font-weight: 600;
+      width: 100%;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+
+    .loader {
+      text-align: center;
+      margin-top: 15px;
+      display: none;
+    }
+
+    .error-message {
+      color: red;
+      font-weight: 600;
+      margin-top: 10px;
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>🔍 SEO Scanner</h1>
+    <p style="text-align:center;">Enter your details to continue</p>
+
+    <!-- Step 1: Registration -->
+    <div id="registrationForm">
+      <div class="form-group">
+        <label for="nameInput">Name</label>
+        <input type="text" id="nameInput" placeholder="Enter your name" required />
+      </div>
+      <div class="form-group">
+        <label for="emailInput">Email</label>
+        <input type="email" id="emailInput" placeholder="Enter your email" required />
+      </div>
+      <div class="form-group">
+        <label for="phoneInput">Phone</label>
+        <input type="tel" id="phoneInput" placeholder="Enter your phone number" required />
+      </div>
+      <button id="registerBtn">Submit & Continue</button>
+
+      <div class="loader" id="loader">⏳ Please wait...</div>
+      <div class="error-message" id="errorMsg"></div>
+    </div>
+  </div>
+
+  <script type="module">
+    // 🔹 Import Firebase
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-app.js";
+    import { getDatabase, ref, push, set } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-database.js";
+
+    // 🔹 Your Firebase Config
+    const firebaseConfig = {
+      apiKey: "AIzaSyBuCCW1hI4xlt3qkyumJS4ue_OIyqJ0S7Q",
+      authDomain: "vnsvisibility-5be30.firebaseapp.com",
+      databaseURL: "https://vnsvisibility-5be30-default-rtdb.firebaseio.com",
+      projectId: "vnsvisibility-5be30",
+      storageBucket: "vnsvisibility-5be30.firebasestorage.app",
+      messagingSenderId: "73091299483",
+      appId: "1:73091299483:web:7960d05becf7d251f3ee3e",
+      measurementId: "G-E11G6XFLCK"
+    };
+
+    // 🔹 Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const db = getDatabase(app);
+
+    // --- Step 1: Save User ---
+    async function registerUser() {
+      const name = document.getElementById("nameInput").value.trim();
+      const email = document.getElementById("emailInput").value.trim();
+      const phone = document.getElementById("phoneInput").value.trim();
+      const loader = document.getElementById("loader");
+      const errorMsg = document.getElementById("errorMsg");
+      const button = document.getElementById("registerBtn");
+
+      // Reset error
+      errorMsg.style.display = "none";
+      errorMsg.textContent = "";
+
+      if (!name || !email || !phone) {
+        errorMsg.textContent = "⚠️ Please fill all fields";
+        errorMsg.style.display = "block";
+        return;
+      }
+
+      try {
+        // Show loader + disable button
+        loader.style.display = "block";
+        button.disabled = true;
+
+        const userRef = push(ref(db, "users"));
+        await set(userRef, { name, email, phone, timestamp: Date.now() });
+
+        // Redirect after successful save
+        window.location.href = "seoscanner.html";
+
+      } catch (err) {
+        loader.style.display = "none";
+        button.disabled = false;
+        errorMsg.textContent = "❌ Error saving user: " + err.message;
+        errorMsg.style.display = "block";
+      }
+    }
+
+    // 🔹 Attach event listeners
+    document.getElementById("registerBtn").addEventListener("click", registerUser);
+  </script>
+</body>
+</html>
